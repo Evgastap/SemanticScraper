@@ -4,7 +4,10 @@
     <year>2020</year>
     <title>Hamilton</title>
     <genres>
-Biography, Drama, History            </genres>
+      <genre>Biography</genre>
+      <genre>Drama</genre>
+      <genre>History</genre>
+    </genres>
     <director id="/name/nm2371802/">
       <name>Thomas Kail</name>
       <dob/>
@@ -30,7 +33,10 @@ Biography, Drama, History            </genres>
     <year>I</year>
     <title>Onward</title>
     <genres>
-Animation, Adventure, Comedy            </genres>
+      <genre>Animation</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
     <director id="/name/nm0768959/">
       <name>Dan Scanlon</name>
       <dob>1976-6-21</dob>
@@ -56,7 +62,9 @@ Animation, Adventure, Comedy            </genres>
     <year>2020</year>
     <title>The King of Staten Island</title>
     <genres>
-Comedy, Drama            </genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+    </genres>
     <director id="/name/nm0031976/">
       <name>Judd Apatow</name>
       <dob>1967-12-6</dob>
@@ -82,7 +90,10 @@ Comedy, Drama            </genres>
     <year>I</year>
     <title>The Invisible Man</title>
     <genres>
-Drama, Horror, Mystery            </genres>
+      <genre>Drama</genre>
+      <genre>Horror</genre>
+      <genre>Mystery</genre>
+    </genres>
     <director id="/name/nm1191481/">
       <name>Leigh Whannell</name>
       <dob>1977-1-17</dob>
@@ -108,7 +119,10 @@ Drama, Horror, Mystery            </genres>
     <year>2020</year>
     <title>The Call of the Wild</title>
     <genres>
-Adventure, Drama, Family            </genres>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>Family</genre>
+    </genres>
     <director id="/name/nm0761498/">
       <name>Chris Sanders</name>
       <dob>1962-3-12</dob>
@@ -134,7 +148,9 @@ Adventure, Drama, Family            </genres>
     <year>2020</year>
     <title>The Way Back</title>
     <genres>
-Drama, Sport            </genres>
+      <genre>Drama</genre>
+      <genre>Sport</genre>
+    </genres>
     <director id="/name/nm0640334/">
       <name>Gavin O'Connor</name>
       <dob>1963-12-24</dob>
@@ -160,7 +176,10 @@ Drama, Sport            </genres>
     <year>2020</year>
     <title>Emma.</title>
     <genres>
-Comedy, Drama, Romance            </genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+    </genres>
     <director id="/name/nm2127315/">
       <name>Autumn de Wilde</name>
       <dob/>
@@ -186,7 +205,10 @@ Comedy, Drama, Romance            </genres>
     <year>2020</year>
     <title>Bad Boys for Life</title>
     <genres>
-Action, Comedy, Crime            </genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+    </genres>
     <director id="/name/nm4816401/">
       <name>Adil El Arbi</name>
       <dob/>
@@ -216,7 +238,10 @@ Action, Comedy, Crime            </genres>
     <year>2020</year>
     <title>Sonic the Hedgehog</title>
     <genres>
-Action, Adventure, Comedy            </genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
     <director id="/name/nm1733778/">
       <name>Jeff Fowler</name>
       <dob>1978-7-27</dob>
@@ -242,7 +267,10 @@ Action, Adventure, Comedy            </genres>
     <year>II</year>
     <title>The Hunt</title>
     <genres>
-Action, Horror, Thriller            </genres>
+      <genre>Action</genre>
+      <genre>Horror</genre>
+      <genre>Thriller</genre>
+    </genres>
     <director id="/name/nm0957505/">
       <name>Craig Zobel</name>
       <dob/>
@@ -268,7 +296,10 @@ Action, Horror, Thriller            </genres>
     <year>2020</year>
     <title>The Old Guard</title>
     <genres>
-Action, Adventure, Fantasy            </genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Fantasy</genre>
+    </genres>
     <director id="/name/nm0697656/">
       <name>Gina Prince-Bythewood</name>
       <dob>1969-6-10</dob>
@@ -294,7 +325,10 @@ Action, Adventure, Fantasy            </genres>
     <year>2020</year>
     <title>Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn</title>
     <genres>
-Action, Adventure, Crime            </genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Crime</genre>
+    </genres>
     <director id="/name/nm4014166/">
       <name>Cathy Yan</name>
       <dob/>
@@ -320,7 +354,10 @@ Action, Adventure, Crime            </genres>
     <year>2020</year>
     <title>The Lovebirds</title>
     <genres>
-Action, Comedy, Crime            </genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+    </genres>
     <director id="/name/nm0795290/">
       <name>Michael Showalter</name>
       <dob>1970-6-17</dob>
@@ -346,7 +383,10 @@ Action, Comedy, Crime            </genres>
     <year>2020</year>
     <title>Underwater</title>
     <genres>
-Action, Horror, Sci-Fi            </genres>
+      <genre>Action</genre>
+      <genre>Horror</genre>
+      <genre>Sci-Fi</genre>
+    </genres>
     <director id="/name/nm1827931/">
       <name>William Eubank</name>
       <dob/>
@@ -372,7 +412,10 @@ Action, Horror, Sci-Fi            </genres>
     <year>2020</year>
     <title>Bloodshot</title>
     <genres>
-Action, Drama, Sci-Fi            </genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>Sci-Fi</genre>
+    </genres>
     <director id="/name/nm1702145/">
       <name>Dave Wilson</name>
       <dob/>
@@ -398,7 +441,8 @@ Action, Drama, Sci-Fi            </genres>
     <year>2020</year>
     <title>Twelve</title>
     <genres>
-Drama            </genres>
+      <genre>Drama</genre>
+    </genres>
     <director id="/name/nm3924049/">
       <name>Angel Manuel Soto</name>
       <dob>1983-1-28</dob>
@@ -424,7 +468,10 @@ Drama            </genres>
     <year>2020</year>
     <title>Promising Young Woman</title>
     <genres>
-Comedy, Crime, Drama            </genres>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+    </genres>
     <director id="/name/nm2193504/">
       <name>Emerald Fennell</name>
       <dob>1985-10-1</dob>
@@ -450,7 +497,8 @@ Comedy, Crime, Drama            </genres>
     <year>2020</year>
     <title>Never Rarely Sometimes Always</title>
     <genres>
-Drama            </genres>
+      <genre>Drama</genre>
+    </genres>
     <director id="/name/nm2151374/">
       <name>Eliza Hittman</name>
       <dob/>
@@ -476,7 +524,10 @@ Drama            </genres>
     <year>2020</year>
     <title>Greyhound</title>
     <genres>
-Action, Drama, History            </genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>History</genre>
+    </genres>
     <director id="/name/nm0773689/">
       <name>Aaron Schneider</name>
       <dob/>
@@ -502,7 +553,9 @@ Action, Drama, History            </genres>
     <year>2019</year>
     <title>The Last Full Measure</title>
     <genres>
-Drama, War            </genres>
+      <genre>Drama</genre>
+      <genre>War</genre>
+    </genres>
     <director id="/name/nm0733149/">
       <name>Todd Robinson</name>
       <dob/>
@@ -528,7 +581,10 @@ Drama, War            </genres>
     <year>2020</year>
     <title>I Still Believe</title>
     <genres>
-Biography, Drama, Music            </genres>
+      <genre>Biography</genre>
+      <genre>Drama</genre>
+      <genre>Music</genre>
+    </genres>
     <director id="/name/nm3401779/">
       <name>Andrew Erwin</name>
       <dob/>
@@ -558,7 +614,8 @@ Biography, Drama, Music            </genres>
     <year>2020</year>
     <title>Bad Trip</title>
     <genres>
-Comedy            </genres>
+      <genre>Comedy</genre>
+    </genres>
     <director id="/name/nm0757318/">
       <name>Kitao Sakurai</name>
       <dob/>
@@ -584,7 +641,10 @@ Comedy            </genres>
     <year>2020</year>
     <title>Dream Horse</title>
     <genres>
-Biography, Comedy, Drama            </genres>
+      <genre>Biography</genre>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+    </genres>
     <director id="/name/nm0528186/">
       <name>Euros Lyn</name>
       <dob>1971-0-0</dob>
@@ -610,7 +670,9 @@ Biography, Comedy, Drama            </genres>
     <year>2020</year>
     <title>My Spy</title>
     <genres>
-Action, Comedy            </genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+    </genres>
     <director id="/name/nm0781842/">
       <name>Peter Segal</name>
       <dob>1962-0-0</dob>
@@ -636,7 +698,10 @@ Action, Comedy            </genres>
     <year>2020</year>
     <title>Trolls World Tour</title>
     <genres>
-Animation, Adventure, Comedy            </genres>
+      <genre>Animation</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
     <director id="/name/nm0230666/">
       <name>Walt Dohrn</name>
       <dob>1970-12-5</dob>
@@ -666,7 +731,10 @@ Animation, Adventure, Comedy            </genres>
     <year>2020</year>
     <title>The High Note</title>
     <genres>
-Drama, Music, Romance            </genres>
+      <genre>Drama</genre>
+      <genre>Music</genre>
+      <genre>Romance</genre>
+    </genres>
     <director id="/name/nm0304091/">
       <name>Nisha Ganatra</name>
       <dob>1971-6-25</dob>
@@ -692,7 +760,9 @@ Drama, Music, Romance            </genres>
     <year>I</year>
     <title>The Photograph</title>
     <genres>
-Drama, Romance            </genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+    </genres>
     <director id="/name/nm4907810/">
       <name>Stella Meghie</name>
       <dob/>
@@ -718,7 +788,9 @@ Drama, Romance            </genres>
     <year>2020</year>
     <title>Wendy</title>
     <genres>
-Drama, Fantasy            </genres>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+    </genres>
     <director id="/name/nm1022455/">
       <name>Benh Zeitlin</name>
       <dob>1982-10-14</dob>
@@ -744,7 +816,9 @@ Drama, Fantasy            </genres>
     <year>2020</year>
     <title>First Lady</title>
     <genres>
-Comedy, Romance            </genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+    </genres>
     <director id="/name/nm0562090/">
       <name>Nina May</name>
       <dob/>
@@ -770,7 +844,10 @@ Comedy, Romance            </genres>
     <year>2020</year>
     <title>A Quiet Place Part II</title>
     <genres>
-Drama, Horror, Sci-Fi            </genres>
+      <genre>Drama</genre>
+      <genre>Horror</genre>
+      <genre>Sci-Fi</genre>
+    </genres>
     <director id="/name/nm1024677/">
       <name>John Krasinski</name>
       <dob>1979-10-20</dob>
@@ -796,7 +873,10 @@ Drama, Horror, Sci-Fi            </genres>
     <year>2020</year>
     <title>Mulan</title>
     <genres>
-Action, Adventure, Drama            </genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+    </genres>
     <director id="/name/nm0138927/">
       <name>Niki Caro</name>
       <dob>1967-0-0</dob>
@@ -822,7 +902,10 @@ Action, Adventure, Drama            </genres>
     <year>2020</year>
     <title>Peter Rabbit 2</title>
     <genres>
-Adventure, Comedy, Family            </genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Family</genre>
+    </genres>
     <director id="/name/nm0323239/">
       <name>Will Gluck</name>
       <dob/>
@@ -848,7 +931,9 @@ Adventure, Comedy, Family            </genres>
     <year>2020</year>
     <title>The Secret: Dare to Dream</title>
     <genres>
-Drama, Romance            </genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+    </genres>
     <director id="/name/nm0855035/">
       <name>Andy Tennant</name>
       <dob>1955-6-15</dob>
@@ -874,7 +959,10 @@ Drama, Romance            </genres>
     <year>2020</year>
     <title>The New Mutants</title>
     <genres>
-Action, Horror, Sci-Fi            </genres>
+      <genre>Action</genre>
+      <genre>Horror</genre>
+      <genre>Sci-Fi</genre>
+    </genres>
     <director id="/name/nm1837748/">
       <name>Josh Boone</name>
       <dob>1979-4-5</dob>
@@ -900,7 +988,10 @@ Action, Horror, Sci-Fi            </genres>
     <year>2021</year>
     <title>No Time to Die</title>
     <genres>
-Action, Adventure, Thriller            </genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Thriller</genre>
+    </genres>
     <director id="/name/nm1560977/">
       <name>Cary Joji Fukunaga</name>
       <dob>1977-7-10</dob>
@@ -926,7 +1017,8 @@ Action, Adventure, Thriller            </genres>
     <year>2020</year>
     <title>Fatima</title>
     <genres>
-Drama            </genres>
+      <genre>Drama</genre>
+    </genres>
     <director id="/name/nm0690602/">
       <name>Marco Pontecorvo</name>
       <dob>1966-11-8</dob>
@@ -952,7 +1044,10 @@ Drama            </genres>
     <year>2021</year>
     <title>Black Widow</title>
     <genres>
-Action, Adventure, Sci-Fi            </genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Sci-Fi</genre>
+    </genres>
     <director id="/name/nm0795153/">
       <name>Cate Shortland</name>
       <dob>1968-8-10</dob>
@@ -978,7 +1073,10 @@ Action, Adventure, Sci-Fi            </genres>
     <year/>
     <title>The Woman in the Window</title>
     <genres>
-Crime, Drama, Thriller            </genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Thriller</genre>
+    </genres>
     <director id="/name/nm0942504/">
       <name>Joe Wright</name>
       <dob>1972-8-25</dob>
@@ -1004,7 +1102,10 @@ Crime, Drama, Thriller            </genres>
     <year>2020</year>
     <title>SpongeBob: Schiet te Hulp</title>
     <genres>
-Animation, Adventure, Comedy            </genres>
+      <genre>Animation</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
     <director id="/name/nm0384722/">
       <name>Tim Hill</name>
       <dob/>
@@ -1030,7 +1131,10 @@ Animation, Adventure, Comedy            </genres>
     <year>2020</year>
     <title>Wonder Woman 1984</title>
     <genres>
-Action, Adventure, Fantasy            </genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Fantasy</genre>
+    </genres>
     <director id="/name/nm0420941/">
       <name>Patty Jenkins</name>
       <dob>1971-7-24</dob>
@@ -1056,7 +1160,10 @@ Action, Adventure, Fantasy            </genres>
     <year>2020</year>
     <title>Soul</title>
     <genres>
-Animation, Adventure, Comedy            </genres>
+      <genre>Animation</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
     <director id="/name/nm0230032/">
       <name>Pete Docter</name>
       <dob>1968-10-9</dob>
@@ -1086,7 +1193,9 @@ Animation, Adventure, Comedy            </genres>
     <year>2021</year>
     <title>Top Gun: Maverick</title>
     <genres>
-Action, Drama            </genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+    </genres>
     <director id="/name/nm2676052/">
       <name>Joseph Kosinski</name>
       <dob>1974-5-3</dob>
@@ -1112,7 +1221,10 @@ Action, Drama            </genres>
     <year/>
     <title>Free Guy</title>
     <genres>
-Action, Adventure, Comedy            </genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
     <director id="/name/nm0506613/">
       <name>Shawn Levy</name>
       <dob>1968-7-23</dob>
@@ -1138,7 +1250,9 @@ Action, Adventure, Comedy            </genres>
     <year>2020</year>
     <title>Tenet</title>
     <genres>
-Action, Sci-Fi            </genres>
+      <genre>Action</genre>
+      <genre>Sci-Fi</genre>
+    </genres>
     <director id="/name/nm0634240/">
       <name>Christopher Nolan</name>
       <dob>1970-7-30</dob>
@@ -1164,7 +1278,10 @@ Action, Sci-Fi            </genres>
     <year>2020</year>
     <title>Bill &amp; Ted Face the Music</title>
     <genres>
-Adventure, Comedy, Music            </genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Music</genre>
+    </genres>
     <director id="/name/nm0661751/">
       <name>Dean Parisot</name>
       <dob/>
@@ -1190,7 +1307,10 @@ Adventure, Comedy, Music            </genres>
     <year>2020</year>
     <title>Let Him Go</title>
     <genres>
-Crime, Drama, Thriller            </genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Thriller</genre>
+    </genres>
     <director id="/name/nm0080120/">
       <name>Thomas Bezucha</name>
       <dob>1964-3-8</dob>
@@ -1216,7 +1336,9 @@ Crime, Drama, Thriller            </genres>
     <year>2020</year>
     <title>Unhinged</title>
     <genres>
-Action, Thriller            </genres>
+      <genre>Action</genre>
+      <genre>Thriller</genre>
+    </genres>
     <director id="/name/nm0097517/">
       <name>Derrick Borte</name>
       <dob>1967-12-7</dob>
@@ -1242,7 +1364,10 @@ Action, Thriller            </genres>
     <year>2021</year>
     <title>The King's Man</title>
     <genres>
-Action, Adventure, Comedy            </genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
     <director id="/name/nm0891216/">
       <name>Matthew Vaughn</name>
       <dob>1971-3-7</dob>
@@ -1268,7 +1393,10 @@ Action, Adventure, Comedy            </genres>
     <year>IV</year>
     <title>Connected</title>
     <genres>
-Animation, Adventure, Comedy            </genres>
+      <genre>Animation</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
     <director id="/name/nm5106831/">
       <name>Michael Rianda</name>
       <dob/>
@@ -1298,7 +1426,10 @@ Animation, Adventure, Comedy            </genres>
     <year>2020</year>
     <title>The Trial of the Chicago 7</title>
     <genres>
-Drama, History, Thriller            </genres>
+      <genre>Drama</genre>
+      <genre>History</genre>
+      <genre>Thriller</genre>
+    </genres>
     <director id="/name/nm0815070/">
       <name>Aaron Sorkin</name>
       <dob>1961-6-9</dob>
@@ -1324,7 +1455,10 @@ Drama, History, Thriller            </genres>
     <year/>
     <title>Death on the Nile</title>
     <genres>
-Crime, Drama, Mystery            </genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+    </genres>
     <director id="/name/nm0000110/">
       <name>Kenneth Branagh</name>
       <dob>1960-12-10</dob>
@@ -1350,7 +1484,10 @@ Crime, Drama, Mystery            </genres>
     <year>2021</year>
     <title>West Side Story</title>
     <genres>
-Crime, Drama, Musical            </genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Musical</genre>
+    </genres>
     <director id="/name/nm0000229/">
       <name>Steven Spielberg</name>
       <dob>1946-12-18</dob>
@@ -1376,7 +1513,10 @@ Crime, Drama, Musical            </genres>
     <year>2021</year>
     <title>Dune</title>
     <genres>
-Adventure, Drama, Sci-Fi            </genres>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>Sci-Fi</genre>
+    </genres>
     <director id="/name/nm0898288/">
       <name>Denis Villeneuve</name>
       <dob>1967-10-3</dob>
@@ -1402,7 +1542,10 @@ Adventure, Drama, Sci-Fi            </genres>
     <year>2020</year>
     <title>The Croods: A New Age</title>
     <genres>
-Animation, Adventure, Comedy            </genres>
+      <genre>Animation</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
     <director id="/name/nm3150455/">
       <name>Joel Crawford</name>
       <dob/>
@@ -1428,7 +1571,8 @@ Animation, Adventure, Comedy            </genres>
     <year>2022</year>
     <title>Legally Blonde 3</title>
     <genres>
-Comedy            </genres>
+      <genre>Comedy</genre>
+    </genres>
     <director id="/name/nm9589396/">
       <name>Jamie Suk</name>
       <dob/>
@@ -1454,7 +1598,9 @@ Comedy            </genres>
     <year>2021</year>
     <title>Candyman</title>
     <genres>
-Horror, Thriller            </genres>
+      <genre>Horror</genre>
+      <genre>Thriller</genre>
+    </genres>
     <director id="/name/nm4804442/">
       <name>Nia DaCosta</name>
       <dob/>
@@ -1480,7 +1626,10 @@ Horror, Thriller            </genres>
     <year>2021</year>
     <title>The French Dispatch</title>
     <genres>
-Comedy, Drama, Romance            </genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+    </genres>
     <director id="/name/nm0027572/">
       <name>Wes Anderson</name>
       <dob>1969-5-1</dob>
@@ -1506,7 +1655,10 @@ Comedy, Drama, Romance            </genres>
     <year>2020</year>
     <title>The Empty Man</title>
     <genres>
-Crime, Drama, Horror            </genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Horror</genre>
+    </genres>
     <director id="/name/nm0697936/">
       <name>David Prior</name>
       <dob>1969-1-6</dob>
@@ -1532,7 +1684,10 @@ Crime, Drama, Horror            </genres>
     <year>2020</year>
     <title>The One and Only Ivan</title>
     <genres>
-Animation, Adventure, Comedy            </genres>
+      <genre>Animation</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
     <director id="/name/nm4824763/">
       <name>Thea Sharrock</name>
       <dob/>
@@ -1558,7 +1713,8 @@ Animation, Adventure, Comedy            </genres>
     <year>IV</year>
     <title>Malignant</title>
     <genres>
-Horror            </genres>
+      <genre>Horror</genre>
+    </genres>
     <director id="/name/nm1490123/">
       <name>James Wan</name>
       <dob>1977-2-26</dob>
@@ -1584,7 +1740,9 @@ Horror            </genres>
     <year>2020</year>
     <title>Spell</title>
     <genres>
-Horror, Thriller            </genres>
+      <genre>Horror</genre>
+      <genre>Thriller</genre>
+    </genres>
     <director id="/name/nm0867127/">
       <name>Mark Tonderai</name>
       <dob/>
@@ -1610,7 +1768,9 @@ Horror, Thriller            </genres>
     <year/>
     <title>Praise This</title>
     <genres>
-Musical, Romance            </genres>
+      <genre>Musical</genre>
+      <genre>Romance</genre>
+    </genres>
     <director id="/name/nm1202276/">
       <name>Tina Gordon</name>
       <dob/>
@@ -1620,7 +1780,10 @@ Musical, Romance            </genres>
     <year>2020</year>
     <title>The Witches</title>
     <genres>
-Adventure, Comedy, Family            </genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Family</genre>
+    </genres>
     <director id="/name/nm0000709/">
       <name>Robert Zemeckis</name>
       <dob>1951-5-14</dob>
@@ -1646,7 +1809,8 @@ Adventure, Comedy, Family            </genres>
     <year>2021</year>
     <title>Fatale</title>
     <genres>
-Thriller            </genres>
+      <genre>Thriller</genre>
+    </genres>
     <director id="/name/nm1938064/">
       <name>Deon Taylor</name>
       <dob/>
@@ -1672,7 +1836,9 @@ Thriller            </genres>
     <year>IV</year>
     <title>Stillwater</title>
     <genres>
-Drama, Thriller            </genres>
+      <genre>Drama</genre>
+      <genre>Thriller</genre>
+    </genres>
     <director id="/name/nm0565336/">
       <name>Tom McCarthy</name>
       <dob>1966-6-7</dob>
@@ -1698,7 +1864,8 @@ Drama, Thriller            </genres>
     <year>2021</year>
     <title>Deep Water</title>
     <genres>
-Thriller            </genres>
+      <genre>Thriller</genre>
+    </genres>
     <director id="/name/nm0001490/">
       <name>Adrian Lyne</name>
       <dob>1941-3-4</dob>
@@ -1724,7 +1891,10 @@ Thriller            </genres>
     <year>2020</year>
     <title>Antebellum</title>
     <genres>
-Drama, Horror, Mystery            </genres>
+      <genre>Drama</genre>
+      <genre>Horror</genre>
+      <genre>Mystery</genre>
+    </genres>
     <director id="/name/nm4680113/">
       <name>Gerard Bush</name>
       <dob/>
@@ -1754,7 +1924,10 @@ Drama, Horror, Mystery            </genres>
     <year>2020</year>
     <title>Gretel &amp; Hansel</title>
     <genres>
-Fantasy, Horror, Mystery            </genres>
+      <genre>Fantasy</genre>
+      <genre>Horror</genre>
+      <genre>Mystery</genre>
+    </genres>
     <director id="/name/nm0674020/">
       <name>Oz Perkins</name>
       <dob>1974-2-2</dob>
@@ -1780,7 +1953,10 @@ Fantasy, Horror, Mystery            </genres>
     <year>2021</year>
     <title>The French Dispatch</title>
     <genres>
-Comedy, Drama, Romance            </genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+    </genres>
     <director id="/name/nm0027572/">
       <name>Wes Anderson</name>
       <dob>1969-5-1</dob>
@@ -1806,7 +1982,10 @@ Comedy, Drama, Romance            </genres>
     <year>2020</year>
     <title>Artemis Fowl</title>
     <genres>
-Adventure, Family, Fantasy            </genres>
+      <genre>Adventure</genre>
+      <genre>Family</genre>
+      <genre>Fantasy</genre>
+    </genres>
     <director id="/name/nm0000110/">
       <name>Kenneth Branagh</name>
       <dob>1960-12-10</dob>
@@ -1832,7 +2011,10 @@ Adventure, Family, Fantasy            </genres>
     <year>2020</year>
     <title>Scoob!</title>
     <genres>
-Animation, Adventure, Comedy            </genres>
+      <genre>Animation</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
     <director id="/name/nm0148999/">
       <name>Tony Cervone</name>
       <dob>1966-11-15</dob>
@@ -1858,7 +2040,10 @@ Animation, Adventure, Comedy            </genres>
     <year>2021</year>
     <title>Snake Eyes: G.I. Joe Origins</title>
     <genres>
-Action, Adventure, Sci-Fi            </genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Sci-Fi</genre>
+    </genres>
     <director id="/name/nm0777881/">
       <name>Robert Schwentke</name>
       <dob>1968-0-0</dob>
@@ -1884,7 +2069,9 @@ Action, Adventure, Sci-Fi            </genres>
     <year>2020</year>
     <title>Happiest Season</title>
     <genres>
-Comedy, Romance            </genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+    </genres>
     <director id="/name/nm0245112/">
       <name>Clea DuVall</name>
       <dob>1977-9-25</dob>
@@ -1910,7 +2097,10 @@ Comedy, Romance            </genres>
     <year>2021</year>
     <title>Escape Room 2</title>
     <genres>
-Action, Adventure, Horror            </genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Horror</genre>
+    </genres>
     <director id="/name/nm0733263/">
       <name>Adam Robitel</name>
       <dob>1978-5-26</dob>
@@ -1936,7 +2126,8 @@ Action, Adventure, Horror            </genres>
     <year>2020</year>
     <title>Coming 2 America</title>
     <genres>
-Comedy            </genres>
+      <genre>Comedy</genre>
+    </genres>
     <director id="/name/nm0108132/">
       <name>Craig Brewer</name>
       <dob>1971-12-6</dob>
@@ -1962,7 +2153,10 @@ Comedy            </genres>
     <year/>
     <title>The Woman in the Window</title>
     <genres>
-Crime, Drama, Thriller            </genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Thriller</genre>
+    </genres>
     <director id="/name/nm0942504/">
       <name>Joe Wright</name>
       <dob>1972-8-25</dob>
@@ -1988,7 +2182,9 @@ Crime, Drama, Thriller            </genres>
     <year>2020</year>
     <title>I'm Thinking of Ending Things</title>
     <genres>
-Drama, Thriller            </genres>
+      <genre>Drama</genre>
+      <genre>Thriller</genre>
+    </genres>
     <director id="/name/nm0442109/">
       <name>Charlie Kaufman</name>
       <dob>1958-11-19</dob>
@@ -2014,7 +2210,9 @@ Drama, Thriller            </genres>
     <year>2020</year>
     <title>Mank</title>
     <genres>
-Biography, Drama            </genres>
+      <genre>Biography</genre>
+      <genre>Drama</genre>
+    </genres>
     <director id="/name/nm0000399/">
       <name>David Fincher</name>
       <dob>1962-8-28</dob>
@@ -2040,7 +2238,9 @@ Biography, Drama            </genres>
     <year>I</year>
     <title>Tesla</title>
     <genres>
-Biography, Drama            </genres>
+      <genre>Biography</genre>
+      <genre>Drama</genre>
+    </genres>
     <director id="/name/nm0021899/">
       <name>Michael Almereyda</name>
       <dob>1959-4-7</dob>
@@ -2066,7 +2266,10 @@ Biography, Drama            </genres>
     <year>2020</year>
     <title>The Glorias</title>
     <genres>
-Biography, Drama, History            </genres>
+      <genre>Biography</genre>
+      <genre>Drama</genre>
+      <genre>History</genre>
+    </genres>
     <director id="/name/nm0853380/">
       <name>Julie Taymor</name>
       <dob>1952-12-15</dob>

@@ -1,4 +1,5 @@
 import requests
+import multiprocessing
 from bs4 import BeautifulSoup
 from xml.etree import ElementTree
 from xml.dom import minidom
@@ -14,8 +15,13 @@ def prettify(elem):
 	return reparsed.toprettyxml(indent="  ")
 
 
-def get_person_info(id):
-	url = "https://www.imdb.com" + id
+def get_person_info(person_id):
+	"""
+	For now, gets the birth date of the person
+	:param person_id: personal ID used to navigate to the IMDB page
+	:return: birthday in format yyyy-mm-dd
+	"""
+	url = "https://www.imdb.com" + person_id
 	page = requests.get(url)
 	soup = BeautifulSoup(page.content, 'html.parser')
 
@@ -61,10 +67,11 @@ def main():
 			# get only the year number in brackets, sometimes there are other vals
 			year = year[year.index("(") + 1:year.index(")")]
 		except ValueError:
-			print(year) # sometimes "year" is just an empty string...
+			print(year)  # sometimes "year" is just an empty string...
 
 		# get genres from subheader
 		genres = subheader.find("span", class_="genre").text
+		genres_array = genres.strip().replace("\n", "").split(", ")  # removes trailing whitespace and line break
 
 		# get director and stars from the cast under description
 		cast_elements = cast.find_all("a")
@@ -73,14 +80,18 @@ def main():
 		director_dob = get_person_info(director_id)
 
 		# PUT DATA IN XML
-		# movie data
+		# default movie data
 		xml_movie = SubElement(imdb, "movie", {"id": movie_id})
 		xml_year = SubElement(xml_movie, "year")
 		xml_year.text = year
 		xml_title = SubElement(xml_movie, "title")
 		xml_title.text = title
+
+		# genre data
 		xml_genres = SubElement(xml_movie, "genres")
-		xml_genres.text = genres
+		for genre in genres_array:
+			xml_genre = SubElement(xml_genres, "genre")
+			xml_genre.text = genre
 
 		# director data
 		xml_director = SubElement(xml_movie, "director", {"id": director_id})
@@ -104,7 +115,6 @@ def main():
 			xml_actor_name.text = actor_name
 
 	# write data to XML
-	mydata = ElementTree.tostring(imdb)
 	myfile = open("export.xml", "w")
 	myfile.write(prettify(imdb))
 
