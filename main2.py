@@ -48,6 +48,8 @@ def main():
 	imdb = Element('imdb')
 
 	i = 0
+	directors_added = []
+	actors_added = []
 	for result in results:
 		print("iteration %s" % i)
 		i += 1
@@ -95,11 +97,14 @@ def main():
 			xml_genre.text = genre
 
 		# director data
-		xml_director = SubElement(xml_movie, "director", {"id": director_id})
-		xml_director_name = SubElement(xml_director, "name")
-		xml_director_name.text = director
-		xml_director_dob = SubElement(xml_director, "dob")
-		xml_director_dob.text = director_dob
+		xml_director_ref = SubElement(xml_movie, "director-ref", {"id": director_id})
+		if director_id not in directors_added:
+			directors_added.append(director_id)
+			xml_director = SubElement(imdb, "director", {"id": director_id})
+			xml_director_name = SubElement(xml_director, "name")
+			xml_director_name.text = director
+			xml_director_dob = SubElement(xml_director, "dob")
+			xml_director_dob.text = director_dob
 
 		# actor data
 		# index for array: everything excl. first element (director)
@@ -108,14 +113,17 @@ def main():
 			actor_id = actor.attrs['href']
 			actor_dob = get_person_info(actor_id)
 
-			xml_actor = SubElement(xml_movie, "actor", {"id": actor_id})
-			xml_actor_name = SubElement(xml_actor, "name")
-			xml_actor_dob = SubElement(xml_actor, "dob")
-			xml_actor_dob.text = actor_dob
-			xml_actor_name.text = actor_name
+			actor_xml_ref = SubElement(xml_movie, "actor-ref", {"id": actor_id})
+			if actor_id not in actors_added:
+				actors_added.append(actor_id)
+				xml_actor = SubElement(imdb, "actor", {"id": actor_id})
+				xml_actor_name = SubElement(xml_actor, "name")
+				xml_actor_dob = SubElement(xml_actor, "dob")
+				xml_actor_dob.text = actor_dob
+				xml_actor_name.text = actor_name
 
 	# write data to XML
-	file = open("export.xml", "w")
+	file = open("export2.xml", "w")
 	file.write(prettify(imdb))
 
 

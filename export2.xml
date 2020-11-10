@@ -1,0 +1,2568 @@
+<?xml version="1.0" ?>
+<imdb>
+  <movie id="/title/tt8503618/">
+    <year>2020</year>
+    <title>Hamilton</title>
+    <genres>
+      <genre>Biography</genre>
+      <genre>Drama</genre>
+      <genre>History</genre>
+    </genres>
+    <director-ref id="/name/nm2371802/"/>
+    <actor-ref id="/name/nm0592135/"/>
+    <actor-ref id="/name/nm5623883/"/>
+    <actor-ref id="/name/nm1502434/"/>
+    <actor-ref id="/name/nm0325989/"/>
+  </movie>
+  <director id="/name/nm2371802/">
+    <name>Thomas Kail</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm0592135/">
+    <name>Lin-Manuel Miranda</name>
+    <dob>1980-1-16</dob>
+  </actor>
+  <actor id="/name/nm5623883/">
+    <name>Phillipa Soo</name>
+    <dob>1990-5-31</dob>
+  </actor>
+  <actor id="/name/nm1502434/">
+    <name>Leslie Odom Jr.</name>
+    <dob>1981-8-6</dob>
+  </actor>
+  <actor id="/name/nm0325989/">
+    <name>Renée Elise Goldsberry</name>
+    <dob>1971-1-2</dob>
+  </actor>
+  <movie id="/title/tt7146812/">
+    <year>I</year>
+    <title>Onward</title>
+    <genres>
+      <genre>Animation</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
+    <director-ref id="/name/nm0768959/"/>
+    <actor-ref id="/name/nm4043618/"/>
+    <actor-ref id="/name/nm0695435/"/>
+    <actor-ref id="/name/nm0000506/"/>
+    <actor-ref id="/name/nm0818055/"/>
+  </movie>
+  <director id="/name/nm0768959/">
+    <name>Dan Scanlon</name>
+    <dob>1976-6-21</dob>
+  </director>
+  <actor id="/name/nm4043618/">
+    <name>Tom Holland</name>
+    <dob>1996-6-1</dob>
+  </actor>
+  <actor id="/name/nm0695435/">
+    <name>Chris Pratt</name>
+    <dob>1979-6-21</dob>
+  </actor>
+  <actor id="/name/nm0000506/">
+    <name>Julia Louis-Dreyfus</name>
+    <dob>1961-1-13</dob>
+  </actor>
+  <actor id="/name/nm0818055/">
+    <name>Octavia Spencer</name>
+    <dob>1972-5-25</dob>
+  </actor>
+  <movie id="/title/tt9686708/">
+    <year>2020</year>
+    <title>The King of Staten Island</title>
+    <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+    </genres>
+    <director-ref id="/name/nm0031976/"/>
+    <actor-ref id="/name/nm0203457/"/>
+    <actor-ref id="/name/nm2525790/"/>
+    <actor-ref id="/name/nm6618353/"/>
+    <actor-ref id="/name/nm7868231/"/>
+  </movie>
+  <director id="/name/nm0031976/">
+    <name>Judd Apatow</name>
+    <dob>1967-12-6</dob>
+  </director>
+  <actor id="/name/nm0203457/">
+    <name>Pete Davidson</name>
+    <dob>1993-11-16</dob>
+  </actor>
+  <actor id="/name/nm2525790/">
+    <name>Bel Powley</name>
+    <dob>1992-3-7</dob>
+  </actor>
+  <actor id="/name/nm6618353/">
+    <name>Ricky Velez</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm7868231/">
+    <name>Lou Wilson</name>
+    <dob/>
+  </actor>
+  <movie id="/title/tt1051906/">
+    <year>I</year>
+    <title>The Invisible Man</title>
+    <genres>
+      <genre>Drama</genre>
+      <genre>Horror</genre>
+      <genre>Mystery</genre>
+    </genres>
+    <director-ref id="/name/nm1191481/"/>
+    <actor-ref id="/name/nm0005253/"/>
+    <actor-ref id="/name/nm2719825/"/>
+    <actor-ref id="/name/nm2976830/"/>
+    <actor-ref id="/name/nm0388038/"/>
+  </movie>
+  <director id="/name/nm1191481/">
+    <name>Leigh Whannell</name>
+    <dob>1977-1-17</dob>
+  </director>
+  <actor id="/name/nm0005253/">
+    <name>Elisabeth Moss</name>
+    <dob>1982-7-24</dob>
+  </actor>
+  <actor id="/name/nm2719825/">
+    <name>Oliver Jackson-Cohen</name>
+    <dob>1986-10-24</dob>
+  </actor>
+  <actor id="/name/nm2976830/">
+    <name>Harriet Dyer</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm0388038/">
+    <name>Aldis Hodge</name>
+    <dob>1986-9-20</dob>
+  </actor>
+  <movie id="/title/tt7504726/">
+    <year>2020</year>
+    <title>The Call of the Wild</title>
+    <genres>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>Family</genre>
+    </genres>
+    <director-ref id="/name/nm0761498/"/>
+    <actor-ref id="/name/nm0000148/"/>
+    <actor-ref id="/name/nm1082477/"/>
+    <actor-ref id="/name/nm4446254/"/>
+    <actor-ref id="/name/nm1405398/"/>
+  </movie>
+  <director id="/name/nm0761498/">
+    <name>Chris Sanders</name>
+    <dob>1962-3-12</dob>
+  </director>
+  <actor id="/name/nm0000148/">
+    <name>Harrison Ford</name>
+    <dob>1942-7-13</dob>
+  </actor>
+  <actor id="/name/nm1082477/">
+    <name>Omar Sy</name>
+    <dob>1978-1-20</dob>
+  </actor>
+  <actor id="/name/nm4446254/">
+    <name>Cara Gee</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm1405398/">
+    <name>Dan Stevens</name>
+    <dob>1982-10-10</dob>
+  </actor>
+  <movie id="/title/tt8544498/">
+    <year>2020</year>
+    <title>The Way Back</title>
+    <genres>
+      <genre>Drama</genre>
+      <genre>Sport</genre>
+    </genres>
+    <director-ref id="/name/nm0640334/"/>
+    <actor-ref id="/name/nm0000255/"/>
+    <actor-ref id="/name/nm1371339/"/>
+    <actor-ref id="/name/nm1232470/"/>
+    <actor-ref id="/name/nm1143861/"/>
+  </movie>
+  <director id="/name/nm0640334/">
+    <name>Gavin O'Connor</name>
+    <dob>1963-12-24</dob>
+  </director>
+  <actor id="/name/nm0000255/">
+    <name>Ben Affleck</name>
+    <dob>1972-8-15</dob>
+  </actor>
+  <actor id="/name/nm1371339/">
+    <name>Al Madrigal</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm1232470/">
+    <name>Janina Gavankar</name>
+    <dob>1980-11-29</dob>
+  </actor>
+  <actor id="/name/nm1143861/">
+    <name>Michaela Watkins</name>
+    <dob>1971-12-14</dob>
+  </actor>
+  <movie id="/title/tt9214832/">
+    <year>2020</year>
+    <title>Emma.</title>
+    <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+    </genres>
+    <director-ref id="/name/nm2127315/"/>
+    <actor-ref id="/name/nm5896355/"/>
+    <actor-ref id="/name/nm1926865/"/>
+    <actor-ref id="/name/nm5301405/"/>
+    <actor-ref id="/name/nm2653929/"/>
+  </movie>
+  <director id="/name/nm2127315/">
+    <name>Autumn de Wilde</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm5896355/">
+    <name>Anya Taylor-Joy</name>
+    <dob>1996-4-16</dob>
+  </actor>
+  <actor id="/name/nm1926865/">
+    <name>Johnny Flynn</name>
+    <dob>1983-3-14</dob>
+  </actor>
+  <actor id="/name/nm5301405/">
+    <name>Mia Goth</name>
+    <dob>1993-11-0</dob>
+  </actor>
+  <actor id="/name/nm2653929/">
+    <name>Angus Imrie</name>
+    <dob>1994-8-2</dob>
+  </actor>
+  <movie id="/title/tt1502397/">
+    <year>2020</year>
+    <title>Bad Boys for Life</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+    </genres>
+    <director-ref id="/name/nm4816401/"/>
+    <actor-ref id="/name/nm4263190/"/>
+    <actor-ref id="/name/nm0000226/"/>
+    <actor-ref id="/name/nm0001454/"/>
+    <actor-ref id="/name/nm1227814/"/>
+    <actor-ref id="/name/nm1573253/"/>
+  </movie>
+  <director id="/name/nm4816401/">
+    <name>Adil El Arbi</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm4263190/">
+    <name>Bilall Fallah</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm0000226/">
+    <name>Will Smith</name>
+    <dob>1968-9-25</dob>
+  </actor>
+  <actor id="/name/nm0001454/">
+    <name>Martin Lawrence</name>
+    <dob>1965-4-16</dob>
+  </actor>
+  <actor id="/name/nm1227814/">
+    <name>Vanessa Hudgens</name>
+    <dob>1988-12-14</dob>
+  </actor>
+  <actor id="/name/nm1573253/">
+    <name>Alexander Ludwig</name>
+    <dob>1992-5-7</dob>
+  </actor>
+  <movie id="/title/tt3794354/">
+    <year>2020</year>
+    <title>Sonic the Hedgehog</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
+    <director-ref id="/name/nm1733778/"/>
+    <actor-ref id="/name/nm2355635/"/>
+    <actor-ref id="/name/nm0005188/"/>
+    <actor-ref id="/name/nm0000120/"/>
+    <actor-ref id="/name/nm1754366/"/>
+  </movie>
+  <director id="/name/nm1733778/">
+    <name>Jeff Fowler</name>
+    <dob>1978-7-27</dob>
+  </director>
+  <actor id="/name/nm2355635/">
+    <name>Ben Schwartz</name>
+    <dob>1981-9-15</dob>
+  </actor>
+  <actor id="/name/nm0005188/">
+    <name>James Marsden</name>
+    <dob>1973-9-18</dob>
+  </actor>
+  <actor id="/name/nm0000120/">
+    <name>Jim Carrey</name>
+    <dob>1962-1-17</dob>
+  </actor>
+  <actor id="/name/nm1754366/">
+    <name>Tika Sumpter</name>
+    <dob>1980-6-20</dob>
+  </actor>
+  <movie id="/title/tt8244784/">
+    <year>II</year>
+    <title>The Hunt</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Horror</genre>
+      <genre>Thriller</genre>
+    </genres>
+    <director-ref id="/name/nm0957505/"/>
+    <actor-ref id="/name/nm2365811/"/>
+    <actor-ref id="/name/nm0005476/"/>
+    <actor-ref id="/name/nm0054697/"/>
+    <actor-ref id="/name/nm0245145/"/>
+  </movie>
+  <director id="/name/nm0957505/">
+    <name>Craig Zobel</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm2365811/">
+    <name>Betty Gilpin</name>
+    <dob>1986-7-21</dob>
+  </actor>
+  <actor id="/name/nm0005476/">
+    <name>Hilary Swank</name>
+    <dob>1974-7-30</dob>
+  </actor>
+  <actor id="/name/nm0054697/">
+    <name>Ike Barinholtz</name>
+    <dob>1977-2-18</dob>
+  </actor>
+  <actor id="/name/nm0245145/">
+    <name>Wayne Duvall</name>
+    <dob>1958-5-29</dob>
+  </actor>
+  <movie id="/title/tt7556122/">
+    <year>2020</year>
+    <title>The Old Guard</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Fantasy</genre>
+    </genres>
+    <director-ref id="/name/nm0697656/"/>
+    <actor-ref id="/name/nm0000234/"/>
+    <actor-ref id="/name/nm8460487/"/>
+    <actor-ref id="/name/nm0774386/"/>
+    <actor-ref id="/name/nm3092471/"/>
+  </movie>
+  <director id="/name/nm0697656/">
+    <name>Gina Prince-Bythewood</name>
+    <dob>1969-6-10</dob>
+  </director>
+  <actor id="/name/nm0000234/">
+    <name>Charlize Theron</name>
+    <dob>1975-8-7</dob>
+  </actor>
+  <actor id="/name/nm8460487/">
+    <name>KiKi Layne</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm0774386/">
+    <name>Matthias Schoenaerts</name>
+    <dob>1977-12-8</dob>
+  </actor>
+  <actor id="/name/nm3092471/">
+    <name>Marwan Kenzari</name>
+    <dob>1983-1-16</dob>
+  </actor>
+  <movie id="/title/tt7713068/">
+    <year>2020</year>
+    <title>Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Crime</genre>
+    </genres>
+    <director-ref id="/name/nm4014166/"/>
+    <actor-ref id="/name/nm3053338/"/>
+    <actor-ref id="/name/nm0001609/"/>
+    <actor-ref id="/name/nm0935541/"/>
+    <actor-ref id="/name/nm0810619/"/>
+  </movie>
+  <director id="/name/nm4014166/">
+    <name>Cathy Yan</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm3053338/">
+    <name>Margot Robbie</name>
+    <dob>1990-7-2</dob>
+  </actor>
+  <actor id="/name/nm0001609/">
+    <name>Rosie Perez</name>
+    <dob>1964-9-6</dob>
+  </actor>
+  <actor id="/name/nm0935541/">
+    <name>Mary Elizabeth Winstead</name>
+    <dob>1984-11-28</dob>
+  </actor>
+  <actor id="/name/nm0810619/">
+    <name>Jurnee Smollett</name>
+    <dob>1986-10-1</dob>
+  </actor>
+  <movie id="/title/tt8851668/">
+    <year>2020</year>
+    <title>The Lovebirds</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+    </genres>
+    <director-ref id="/name/nm0795290/"/>
+    <actor-ref id="/name/nm4793987/"/>
+    <actor-ref id="/name/nm3529685/"/>
+    <actor-ref id="/name/nm0817027/"/>
+    <actor-ref id="/name/nm2319871/"/>
+  </movie>
+  <director id="/name/nm0795290/">
+    <name>Michael Showalter</name>
+    <dob>1970-6-17</dob>
+  </director>
+  <actor id="/name/nm4793987/">
+    <name>Issa Rae</name>
+    <dob>1985-1-12</dob>
+  </actor>
+  <actor id="/name/nm3529685/">
+    <name>Kumail Nanjiani</name>
+    <dob>1978-2-21</dob>
+  </actor>
+  <actor id="/name/nm0817027/">
+    <name>Paul Sparks</name>
+    <dob>1971-10-16</dob>
+  </actor>
+  <actor id="/name/nm2319871/">
+    <name>Anna Camp</name>
+    <dob>1982-9-27</dob>
+  </actor>
+  <movie id="/title/tt5774060/">
+    <year>2020</year>
+    <title>Underwater</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Horror</genre>
+      <genre>Sci-Fi</genre>
+    </genres>
+    <director-ref id="/name/nm1827931/"/>
+    <actor-ref id="/name/nm0829576/"/>
+    <actor-ref id="/name/nm0001993/"/>
+    <actor-ref id="/name/nm6974206/"/>
+    <actor-ref id="/name/nm2554352/"/>
+  </movie>
+  <director id="/name/nm1827931/">
+    <name>William Eubank</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm0829576/">
+    <name>Kristen Stewart</name>
+    <dob>1990-4-9</dob>
+  </actor>
+  <actor id="/name/nm0001993/">
+    <name>Vincent Cassel</name>
+    <dob>1966-11-23</dob>
+  </actor>
+  <actor id="/name/nm6974206/">
+    <name>Mamoudou Athie</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm2554352/">
+    <name>T.J. Miller</name>
+    <dob>1981-6-4</dob>
+  </actor>
+  <movie id="/title/tt1634106/">
+    <year>2020</year>
+    <title>Bloodshot</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>Sci-Fi</genre>
+    </genres>
+    <director-ref id="/name/nm1702145/"/>
+    <actor-ref id="/name/nm0004874/"/>
+    <actor-ref id="/name/nm2555462/"/>
+    <actor-ref id="/name/nm1537825/"/>
+    <actor-ref id="/name/nm1527905/"/>
+  </movie>
+  <director id="/name/nm1702145/">
+    <name>Dave Wilson</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm0004874/">
+    <name>Vin Diesel</name>
+    <dob>1967-7-18</dob>
+  </actor>
+  <actor id="/name/nm2555462/">
+    <name>Eiza González</name>
+    <dob>1990-1-30</dob>
+  </actor>
+  <actor id="/name/nm1537825/">
+    <name>Sam Heughan</name>
+    <dob>1980-4-30</dob>
+  </actor>
+  <actor id="/name/nm1527905/">
+    <name>Toby Kebbell</name>
+    <dob>1982-7-9</dob>
+  </actor>
+  <movie id="/title/tt9048840/">
+    <year>2020</year>
+    <title>Twelve</title>
+    <genres>
+      <genre>Drama</genre>
+    </genres>
+    <director-ref id="/name/nm3924049/"/>
+    <actor-ref id="/name/nm8091769/"/>
+    <actor-ref id="/name/nm4049674/"/>
+    <actor-ref id="/name/nm2825058/"/>
+    <actor-ref id="/name/nm5621902/"/>
+  </movie>
+  <director id="/name/nm3924049/">
+    <name>Angel Manuel Soto</name>
+    <dob>1983-1-28</dob>
+  </director>
+  <actor id="/name/nm8091769/">
+    <name>Jahi Di'Allo Winston</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm4049674/">
+    <name>Meek Mill</name>
+    <dob>1987-5-6</dob>
+  </actor>
+  <actor id="/name/nm2825058/">
+    <name>William Catlett</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm5621902/">
+    <name>Donielle T. Hansley Jr.</name>
+    <dob/>
+  </actor>
+  <movie id="/title/tt9620292/">
+    <year>2020</year>
+    <title>Promising Young Woman</title>
+    <genres>
+      <genre>Comedy</genre>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+    </genres>
+    <director-ref id="/name/nm2193504/"/>
+    <actor-ref id="/name/nm1659547/"/>
+    <actor-ref id="/name/nm3102998/"/>
+    <actor-ref id="/name/nm1209545/"/>
+    <actor-ref id="/name/nm0000317/"/>
+  </movie>
+  <director id="/name/nm2193504/">
+    <name>Emerald Fennell</name>
+    <dob>1985-10-1</dob>
+  </director>
+  <actor id="/name/nm1659547/">
+    <name>Carey Mulligan</name>
+    <dob>1985-5-28</dob>
+  </actor>
+  <actor id="/name/nm3102998/">
+    <name>Bo Burnham</name>
+    <dob>1990-8-21</dob>
+  </actor>
+  <actor id="/name/nm1209545/">
+    <name>Laverne Cox</name>
+    <dob>1972-5-29</dob>
+  </actor>
+  <actor id="/name/nm0000317/">
+    <name>Clancy Brown</name>
+    <dob>1959-1-5</dob>
+  </actor>
+  <movie id="/title/tt7772582/">
+    <year>2020</year>
+    <title>Never Rarely Sometimes Always</title>
+    <genres>
+      <genre>Drama</genre>
+    </genres>
+    <director-ref id="/name/nm2151374/"/>
+    <actor-ref id="/name/nm10620978/"/>
+    <actor-ref id="/name/nm7867621/"/>
+    <actor-ref id="/name/nm6829691/"/>
+    <actor-ref id="/name/nm8665872/"/>
+  </movie>
+  <director id="/name/nm2151374/">
+    <name>Eliza Hittman</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm10620978/">
+    <name>Sidney Flanigan</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm7867621/">
+    <name>Talia Ryder</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm6829691/">
+    <name>Théodore Pellerin</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm8665872/">
+    <name>Eliazar Jimenez</name>
+    <dob/>
+  </actor>
+  <movie id="/title/tt6048922/">
+    <year>2020</year>
+    <title>Greyhound</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+      <genre>History</genre>
+    </genres>
+    <director-ref id="/name/nm0773689/"/>
+    <actor-ref id="/name/nm0000158/"/>
+    <actor-ref id="/name/nm0000223/"/>
+    <actor-ref id="/name/nm0334318/"/>
+    <actor-ref id="/name/nm5090093/"/>
+  </movie>
+  <director id="/name/nm0773689/">
+    <name>Aaron Schneider</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm0000158/">
+    <name>Tom Hanks</name>
+    <dob>1956-7-9</dob>
+  </actor>
+  <actor id="/name/nm0000223/">
+    <name>Elisabeth Shue</name>
+    <dob>1963-10-6</dob>
+  </actor>
+  <actor id="/name/nm0334318/">
+    <name>Stephen Graham</name>
+    <dob>1973-8-3</dob>
+  </actor>
+  <actor id="/name/nm5090093/">
+    <name>Matt Helm</name>
+    <dob/>
+  </actor>
+  <movie id="/title/tt0783640/">
+    <year>2019</year>
+    <title>The Last Full Measure</title>
+    <genres>
+      <genre>Drama</genre>
+      <genre>War</genre>
+    </genres>
+    <director-ref id="/name/nm0733149/"/>
+    <actor-ref id="/name/nm1659221/"/>
+    <actor-ref id="/name/nm0837223/"/>
+    <actor-ref id="/name/nm8313926/"/>
+    <actor-ref id="/name/nm0004986/"/>
+  </movie>
+  <director id="/name/nm0733149/">
+    <name>Todd Robinson</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm1659221/">
+    <name>Sebastian Stan</name>
+    <dob>1982-8-13</dob>
+  </actor>
+  <actor id="/name/nm0837223/">
+    <name>Alison Sudol</name>
+    <dob>1984-12-23</dob>
+  </actor>
+  <actor id="/name/nm8313926/">
+    <name>Asher Miles Fallica</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm0004986/">
+    <name>LisaGay Hamilton</name>
+    <dob>1964-3-25</dob>
+  </actor>
+  <movie id="/title/tt9779516/">
+    <year>2020</year>
+    <title>I Still Believe</title>
+    <genres>
+      <genre>Biography</genre>
+      <genre>Drama</genre>
+      <genre>Music</genre>
+    </genres>
+    <director-ref id="/name/nm3401779/"/>
+    <actor-ref id="/name/nm2296528/"/>
+    <actor-ref id="/name/nm6216001/"/>
+    <actor-ref id="/name/nm1429380/"/>
+    <actor-ref id="/name/nm1452155/"/>
+    <actor-ref id="/name/nm0000641/"/>
+  </movie>
+  <director id="/name/nm3401779/">
+    <name>Andrew Erwin</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm2296528/">
+    <name>Jon Erwin</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm6216001/">
+    <name>K.J. Apa</name>
+    <dob>1997-6-16</dob>
+  </actor>
+  <actor id="/name/nm1429380/">
+    <name>Britt Robertson</name>
+    <dob>1990-4-18</dob>
+  </actor>
+  <actor id="/name/nm1452155/">
+    <name>Nathan Parsons</name>
+    <dob>1988-6-16</dob>
+  </actor>
+  <actor id="/name/nm0000641/">
+    <name>Gary Sinise</name>
+    <dob>1955-3-17</dob>
+  </actor>
+  <movie id="/title/tt9684220/">
+    <year>2020</year>
+    <title>Bad Trip</title>
+    <genres>
+      <genre>Comedy</genre>
+    </genres>
+    <director-ref id="/name/nm0757318/"/>
+    <actor-ref id="/name/nm2765191/"/>
+    <actor-ref id="/name/nm2577076/"/>
+    <actor-ref id="/name/nm1840504/"/>
+    <actor-ref id="/name/nm5006067/"/>
+  </movie>
+  <director id="/name/nm0757318/">
+    <name>Kitao Sakurai</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm2765191/">
+    <name>Eric André</name>
+    <dob>1984-4-4</dob>
+  </actor>
+  <actor id="/name/nm2577076/">
+    <name>Lil Rel Howery</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm1840504/">
+    <name>Tiffany Haddish</name>
+    <dob>1979-12-3</dob>
+  </actor>
+  <actor id="/name/nm5006067/">
+    <name>Anthony J. James</name>
+    <dob/>
+  </actor>
+  <movie id="/title/tt9883996/">
+    <year>2020</year>
+    <title>Dream Horse</title>
+    <genres>
+      <genre>Biography</genre>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+    </genres>
+    <director-ref id="/name/nm0528186/"/>
+    <actor-ref id="/name/nm0001057/"/>
+    <actor-ref id="/name/nm0507073/"/>
+    <actor-ref id="/name/nm0205749/"/>
+    <actor-ref id="/name/nm0268297/"/>
+  </movie>
+  <director id="/name/nm0528186/">
+    <name>Euros Lyn</name>
+    <dob>1971-0-0</dob>
+  </director>
+  <actor id="/name/nm0001057/">
+    <name>Toni Collette</name>
+    <dob>1972-11-1</dob>
+  </actor>
+  <actor id="/name/nm0507073/">
+    <name>Damian Lewis</name>
+    <dob>1971-2-11</dob>
+  </actor>
+  <actor id="/name/nm0205749/">
+    <name>Peter Davison</name>
+    <dob>1951-4-13</dob>
+  </actor>
+  <actor id="/name/nm0268297/">
+    <name>Nicholas Farrell</name>
+    <dob>1955-0-0</dob>
+  </actor>
+  <movie id="/title/tt8242084/">
+    <year>2020</year>
+    <title>My Spy</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Comedy</genre>
+    </genres>
+    <director-ref id="/name/nm0781842/"/>
+    <actor-ref id="/name/nm1176985/"/>
+    <actor-ref id="/name/nm5668548/"/>
+    <actor-ref id="/name/nm1406792/"/>
+    <actor-ref id="/name/nm1102891/"/>
+  </movie>
+  <director id="/name/nm0781842/">
+    <name>Peter Segal</name>
+    <dob>1962-0-0</dob>
+  </director>
+  <actor id="/name/nm1176985/">
+    <name>Dave Bautista</name>
+    <dob>1969-1-18</dob>
+  </actor>
+  <actor id="/name/nm5668548/">
+    <name>Chloe Coleman</name>
+    <dob>2008-11-23</dob>
+  </actor>
+  <actor id="/name/nm1406792/">
+    <name>Parisa Fitz-Henley</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm1102891/">
+    <name>Kristen Schaal</name>
+    <dob>1978-1-24</dob>
+  </actor>
+  <movie id="/title/tt6587640/">
+    <year>2020</year>
+    <title>Trolls World Tour</title>
+    <genres>
+      <genre>Animation</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
+    <director-ref id="/name/nm0230666/"/>
+    <actor-ref id="/name/nm1019583/"/>
+    <actor-ref id="/name/nm0447695/"/>
+    <actor-ref id="/name/nm0005493/"/>
+    <actor-ref id="/name/nm3417385/"/>
+    <actor-ref id="/name/nm0179479/"/>
+  </movie>
+  <director id="/name/nm0230666/">
+    <name>Walt Dohrn</name>
+    <dob>1970-12-5</dob>
+  </director>
+  <actor id="/name/nm1019583/">
+    <name>David P. Smith</name>
+    <dob>1968-0-0</dob>
+  </actor>
+  <actor id="/name/nm0447695/">
+    <name>Anna Kendrick</name>
+    <dob>1985-8-9</dob>
+  </actor>
+  <actor id="/name/nm0005493/">
+    <name>Justin Timberlake</name>
+    <dob>1981-1-31</dob>
+  </actor>
+  <actor id="/name/nm3417385/">
+    <name>Rachel Bloom</name>
+    <dob>1987-4-3</dob>
+  </actor>
+  <actor id="/name/nm0179479/">
+    <name>James Corden</name>
+    <dob>1978-8-22</dob>
+  </actor>
+  <movie id="/title/tt9308382/">
+    <year>2020</year>
+    <title>The High Note</title>
+    <genres>
+      <genre>Drama</genre>
+      <genre>Music</genre>
+      <genre>Romance</genre>
+    </genres>
+    <director-ref id="/name/nm0304091/"/>
+    <actor-ref id="/name/nm0424848/"/>
+    <actor-ref id="/name/nm0743896/"/>
+    <actor-ref id="/name/nm5123156/"/>
+    <actor-ref id="/name/nm0000597/"/>
+  </movie>
+  <director id="/name/nm0304091/">
+    <name>Nisha Ganatra</name>
+    <dob>1971-6-25</dob>
+  </director>
+  <actor id="/name/nm0424848/">
+    <name>Dakota Johnson</name>
+    <dob>1989-10-4</dob>
+  </actor>
+  <actor id="/name/nm0743896/">
+    <name>Tracee Ellis Ross</name>
+    <dob>1972-10-29</dob>
+  </actor>
+  <actor id="/name/nm5123156/">
+    <name>Kelvin Harrison Jr.</name>
+    <dob>1994-7-23</dob>
+  </actor>
+  <actor id="/name/nm0000597/">
+    <name>Bill Pullman</name>
+    <dob>1953-12-17</dob>
+  </actor>
+  <movie id="/title/tt7798646/">
+    <year>I</year>
+    <title>The Photograph</title>
+    <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+    </genres>
+    <director-ref id="/name/nm4907810/"/>
+    <actor-ref id="/name/nm4793987/"/>
+    <actor-ref id="/name/nm3147751/"/>
+    <actor-ref id="/name/nm6001320/"/>
+    <actor-ref id="/name/nm5002057/"/>
+  </movie>
+  <director id="/name/nm4907810/">
+    <name>Stella Meghie</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm3147751/">
+    <name>LaKeith Stanfield</name>
+    <dob>1991-8-12</dob>
+  </actor>
+  <actor id="/name/nm6001320/">
+    <name>Chanté Adams</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm5002057/">
+    <name>Y'lan Noel</name>
+    <dob/>
+  </actor>
+  <movie id="/title/tt2420124/">
+    <year>2020</year>
+    <title>Wendy</title>
+    <genres>
+      <genre>Drama</genre>
+      <genre>Fantasy</genre>
+    </genres>
+    <director-ref id="/name/nm1022455/"/>
+    <actor-ref id="/name/nm11293332/"/>
+    <actor-ref id="/name/nm11318161/"/>
+    <actor-ref id="/name/nm11293333/"/>
+    <actor-ref id="/name/nm11293334/"/>
+  </movie>
+  <director id="/name/nm1022455/">
+    <name>Benh Zeitlin</name>
+    <dob>1982-10-14</dob>
+  </director>
+  <actor id="/name/nm11293332/">
+    <name>Devin France</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm11318161/">
+    <name>Yashua Mack</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm11293333/">
+    <name>Gage Naquin</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm11293334/">
+    <name>Gavin Naquin</name>
+    <dob/>
+  </actor>
+  <movie id="/title/tt9068272/">
+    <year>2020</year>
+    <title>First Lady</title>
+    <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+    </genres>
+    <director-ref id="/name/nm0562090/"/>
+    <actor-ref id="/name/nm0821328/"/>
+    <actor-ref id="/name/nm0000929/"/>
+    <actor-ref id="/name/nm0001107/"/>
+    <actor-ref id="/name/nm1254478/"/>
+  </movie>
+  <director id="/name/nm0562090/">
+    <name>Nina May</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm0821328/">
+    <name>Nancy Stafford</name>
+    <dob>1954-6-5</dob>
+  </actor>
+  <actor id="/name/nm0000929/">
+    <name>Corbin Bernsen</name>
+    <dob>1954-9-7</dob>
+  </actor>
+  <actor id="/name/nm0001107/">
+    <name>Stacey Dash</name>
+    <dob>1967-1-20</dob>
+  </actor>
+  <actor id="/name/nm1254478/">
+    <name>Benjamin Dane</name>
+    <dob>1962-7-20</dob>
+  </actor>
+  <movie id="/title/tt8332922/">
+    <year>2020</year>
+    <title>A Quiet Place Part II</title>
+    <genres>
+      <genre>Drama</genre>
+      <genre>Horror</genre>
+      <genre>Sci-Fi</genre>
+    </genres>
+    <director-ref id="/name/nm1024677/"/>
+    <actor-ref id="/name/nm1289434/"/>
+    <actor-ref id="/name/nm8075925/"/>
+    <actor-ref id="/name/nm0614165/"/>
+    <actor-ref id="/name/nm7415871/"/>
+  </movie>
+  <director id="/name/nm1024677/">
+    <name>John Krasinski</name>
+    <dob>1979-10-20</dob>
+  </director>
+  <actor id="/name/nm1289434/">
+    <name>Emily Blunt</name>
+    <dob>1983-2-23</dob>
+  </actor>
+  <actor id="/name/nm8075925/">
+    <name>Millicent Simmonds</name>
+    <dob>2003-3-1</dob>
+  </actor>
+  <actor id="/name/nm0614165/">
+    <name>Cillian Murphy</name>
+    <dob>1976-5-25</dob>
+  </actor>
+  <actor id="/name/nm7415871/">
+    <name>Noah Jupe</name>
+    <dob>2005-2-25</dob>
+  </actor>
+  <movie id="/title/tt4566758/">
+    <year>2020</year>
+    <title>Mulan</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+    </genres>
+    <director-ref id="/name/nm0138927/"/>
+    <actor-ref id="/name/nm1703577/"/>
+    <actor-ref id="/name/nm0947447/"/>
+    <actor-ref id="/name/nm0000084/"/>
+    <actor-ref id="/name/nm0001472/"/>
+  </movie>
+  <director id="/name/nm0138927/">
+    <name>Niki Caro</name>
+    <dob>1967-0-0</dob>
+  </director>
+  <actor id="/name/nm1703577/">
+    <name>Yifei Liu</name>
+    <dob>1987-8-25</dob>
+  </actor>
+  <actor id="/name/nm0947447/">
+    <name>Donnie Yen</name>
+    <dob>1963-7-27</dob>
+  </actor>
+  <actor id="/name/nm0000084/">
+    <name>Li Gong</name>
+    <dob>1965-12-31</dob>
+  </actor>
+  <actor id="/name/nm0001472/">
+    <name>Jet Li</name>
+    <dob>1963-4-26</dob>
+  </actor>
+  <movie id="/title/tt8376234/">
+    <year>2020</year>
+    <title>Peter Rabbit 2</title>
+    <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Family</genre>
+    </genres>
+    <director-ref id="/name/nm0323239/"/>
+    <actor-ref id="/name/nm0179479/"/>
+    <actor-ref id="/name/nm4456120/"/>
+    <actor-ref id="/name/nm0416694/"/>
+    <actor-ref id="/name/nm3053338/"/>
+  </movie>
+  <director id="/name/nm0323239/">
+    <name>Will Gluck</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm4456120/">
+    <name>Elizabeth Debicki</name>
+    <dob>1990-8-24</dob>
+  </actor>
+  <actor id="/name/nm0416694/">
+    <name>Lennie James</name>
+    <dob>1965-10-11</dob>
+  </actor>
+  <movie id="/title/tt4411584/">
+    <year>2020</year>
+    <title>The Secret: Dare to Dream</title>
+    <genres>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+    </genres>
+    <director-ref id="/name/nm0855035/"/>
+    <actor-ref id="/name/nm0005017/"/>
+    <actor-ref id="/name/nm0524197/"/>
+    <actor-ref id="/name/nm0922927/"/>
+    <actor-ref id="/name/nm0005278/"/>
+  </movie>
+  <director id="/name/nm0855035/">
+    <name>Andy Tennant</name>
+    <dob>1955-6-15</dob>
+  </director>
+  <actor id="/name/nm0005017/">
+    <name>Katie Holmes</name>
+    <dob>1978-12-18</dob>
+  </actor>
+  <actor id="/name/nm0524197/">
+    <name>Josh Lucas</name>
+    <dob>1971-6-20</dob>
+  </actor>
+  <actor id="/name/nm0922927/">
+    <name>Celia Weston</name>
+    <dob>1951-12-14</dob>
+  </actor>
+  <actor id="/name/nm0005278/">
+    <name>Jerry O'Connell</name>
+    <dob>1974-2-17</dob>
+  </actor>
+  <movie id="/title/tt4682266/">
+    <year>2020</year>
+    <title>The New Mutants</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Horror</genre>
+      <genre>Sci-Fi</genre>
+    </genres>
+    <director-ref id="/name/nm1837748/"/>
+    <actor-ref id="/name/nm3586035/"/>
+    <actor-ref id="/name/nm5896355/"/>
+    <actor-ref id="/name/nm6390427/"/>
+    <actor-ref id="/name/nm0103797/"/>
+  </movie>
+  <director id="/name/nm1837748/">
+    <name>Josh Boone</name>
+    <dob>1979-4-5</dob>
+  </director>
+  <actor id="/name/nm3586035/">
+    <name>Maisie Williams</name>
+    <dob>1997-4-15</dob>
+  </actor>
+  <actor id="/name/nm6390427/">
+    <name>Charlie Heaton</name>
+    <dob>1994-2-6</dob>
+  </actor>
+  <actor id="/name/nm0103797/">
+    <name>Alice Braga</name>
+    <dob>1983-4-15</dob>
+  </actor>
+  <movie id="/title/tt2382320/">
+    <year>2021</year>
+    <title>No Time to Die</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Thriller</genre>
+    </genres>
+    <director-ref id="/name/nm1560977/"/>
+    <actor-ref id="/name/nm1869101/"/>
+    <actor-ref id="/name/nm0185819/"/>
+    <actor-ref id="/name/nm2736476/"/>
+    <actor-ref id="/name/nm0000146/"/>
+  </movie>
+  <director id="/name/nm1560977/">
+    <name>Cary Joji Fukunaga</name>
+    <dob>1977-7-10</dob>
+  </director>
+  <actor id="/name/nm1869101/">
+    <name>Ana de Armas</name>
+    <dob>1988-4-30</dob>
+  </actor>
+  <actor id="/name/nm0185819/">
+    <name>Daniel Craig</name>
+    <dob>1968-3-2</dob>
+  </actor>
+  <actor id="/name/nm2736476/">
+    <name>Lashana Lynch</name>
+    <dob>1987-11-27</dob>
+  </actor>
+  <actor id="/name/nm0000146/">
+    <name>Ralph Fiennes</name>
+    <dob>1962-12-22</dob>
+  </actor>
+  <movie id="/title/tt2197936/">
+    <year>2020</year>
+    <title>Fatima</title>
+    <genres>
+      <genre>Drama</genre>
+    </genres>
+    <director-ref id="/name/nm0690602/"/>
+    <actor-ref id="/name/nm0021835/"/>
+    <actor-ref id="/name/nm0899681/"/>
+    <actor-ref id="/name/nm6015428/"/>
+    <actor-ref id="/name/nm10095780/"/>
+  </movie>
+  <director id="/name/nm0690602/">
+    <name>Marco Pontecorvo</name>
+    <dob>1966-11-8</dob>
+  </director>
+  <actor id="/name/nm0021835/">
+    <name>Joaquim de Almeida</name>
+    <dob>1957-3-15</dob>
+  </actor>
+  <actor id="/name/nm0899681/">
+    <name>Goran Visnjic</name>
+    <dob>1972-9-9</dob>
+  </actor>
+  <actor id="/name/nm6015428/">
+    <name>Stephanie Gil</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm10095780/">
+    <name>Alejandra Howard</name>
+    <dob/>
+  </actor>
+  <movie id="/title/tt3480822/">
+    <year>2021</year>
+    <title>Black Widow</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Sci-Fi</genre>
+    </genres>
+    <director-ref id="/name/nm0795153/"/>
+    <actor-ref id="/name/nm0424060/"/>
+    <actor-ref id="/name/nm6073955/"/>
+    <actor-ref id="/name/nm0000375/"/>
+    <actor-ref id="/name/nm0001838/"/>
+  </movie>
+  <director id="/name/nm0795153/">
+    <name>Cate Shortland</name>
+    <dob>1968-8-10</dob>
+  </director>
+  <actor id="/name/nm0424060/">
+    <name>Scarlett Johansson</name>
+    <dob>1984-11-22</dob>
+  </actor>
+  <actor id="/name/nm6073955/">
+    <name>Florence Pugh</name>
+    <dob>1996-1-3</dob>
+  </actor>
+  <actor id="/name/nm0000375/">
+    <name>Robert Downey Jr.</name>
+    <dob>1965-4-4</dob>
+  </actor>
+  <actor id="/name/nm0001838/">
+    <name>Rachel Weisz</name>
+    <dob>1970-3-7</dob>
+  </actor>
+  <movie id="/title/tt6111574/">
+    <year/>
+    <title>The Woman in the Window</title>
+    <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Thriller</genre>
+    </genres>
+    <director-ref id="/name/nm0942504/"/>
+    <actor-ref id="/name/nm0010736/"/>
+    <actor-ref id="/name/nm1107001/"/>
+    <actor-ref id="/name/nm9538520/"/>
+    <actor-ref id="/name/nm0751518/"/>
+  </movie>
+  <director id="/name/nm0942504/">
+    <name>Joe Wright</name>
+    <dob>1972-8-25</dob>
+  </director>
+  <actor id="/name/nm0010736/">
+    <name>Amy Adams</name>
+    <dob>1974-8-20</dob>
+  </actor>
+  <actor id="/name/nm1107001/">
+    <name>Anthony Mackie</name>
+    <dob>1978-9-23</dob>
+  </actor>
+  <actor id="/name/nm9538520/">
+    <name>Fred Hechinger</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm0751518/">
+    <name>Wyatt Russell</name>
+    <dob>1986-7-10</dob>
+  </actor>
+  <movie id="/title/tt4823776/">
+    <year>2020</year>
+    <title>SpongeBob: Schiet te Hulp</title>
+    <genres>
+      <genre>Animation</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
+    <director-ref id="/name/nm0384722/"/>
+    <actor-ref id="/name/nm0384722/"/>
+    <actor-ref id="/name/nm0000317/"/>
+    <actor-ref id="/name/nm0265067/"/>
+    <actor-ref id="/name/nm0120309/"/>
+  </movie>
+  <director id="/name/nm0384722/">
+    <name>Tim Hill</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm0384722/">
+    <name>Tim Hill</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm0265067/">
+    <name>Bill Fagerbakke</name>
+    <dob>1957-10-4</dob>
+  </actor>
+  <actor id="/name/nm0120309/">
+    <name>Rodger Bumpass</name>
+    <dob>1951-11-20</dob>
+  </actor>
+  <movie id="/title/tt7126948/">
+    <year>2020</year>
+    <title>Wonder Woman 1984</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Fantasy</genre>
+    </genres>
+    <director-ref id="/name/nm0420941/"/>
+    <actor-ref id="/name/nm0050959/"/>
+    <actor-ref id="/name/nm1517976/"/>
+    <actor-ref id="/name/nm2933757/"/>
+    <actor-ref id="/name/nm0000705/"/>
+  </movie>
+  <director id="/name/nm0420941/">
+    <name>Patty Jenkins</name>
+    <dob>1971-7-24</dob>
+  </director>
+  <actor id="/name/nm0050959/">
+    <name>Pedro Pascal</name>
+    <dob>1975-4-2</dob>
+  </actor>
+  <actor id="/name/nm1517976/">
+    <name>Chris Pine</name>
+    <dob>1980-8-26</dob>
+  </actor>
+  <actor id="/name/nm2933757/">
+    <name>Gal Gadot</name>
+    <dob>1985-4-30</dob>
+  </actor>
+  <actor id="/name/nm0000705/">
+    <name>Robin Wright</name>
+    <dob>1966-4-8</dob>
+  </actor>
+  <movie id="/title/tt2948372/">
+    <year>2020</year>
+    <title>Soul</title>
+    <genres>
+      <genre>Animation</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
+    <director-ref id="/name/nm0230032/"/>
+    <actor-ref id="/name/nm5358492/"/>
+    <actor-ref id="/name/nm0004937/"/>
+    <actor-ref id="/name/nm0275486/"/>
+    <actor-ref id="/name/nm0636218/"/>
+    <actor-ref id="/name/nm1344302/"/>
+  </movie>
+  <director id="/name/nm0230032/">
+    <name>Pete Docter</name>
+    <dob>1968-10-9</dob>
+  </director>
+  <actor id="/name/nm5358492/">
+    <name>Kemp Powers</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm0004937/">
+    <name>Jamie Foxx</name>
+    <dob>1967-12-13</dob>
+  </actor>
+  <actor id="/name/nm0275486/">
+    <name>Tina Fey</name>
+    <dob>1970-5-18</dob>
+  </actor>
+  <actor id="/name/nm0636218/">
+    <name>Graham Norton</name>
+    <dob>1963-4-4</dob>
+  </actor>
+  <actor id="/name/nm1344302/">
+    <name>Rachel House</name>
+    <dob>1971-10-20</dob>
+  </actor>
+  <movie id="/title/tt1745960/">
+    <year>2021</year>
+    <title>Top Gun: Maverick</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Drama</genre>
+    </genres>
+    <director-ref id="/name/nm2676052/"/>
+    <actor-ref id="/name/nm0000129/"/>
+    <actor-ref id="/name/nm0000124/"/>
+    <actor-ref id="/name/nm0000174/"/>
+    <actor-ref id="/name/nm0000438/"/>
+  </movie>
+  <director id="/name/nm2676052/">
+    <name>Joseph Kosinski</name>
+    <dob>1974-5-3</dob>
+  </director>
+  <actor id="/name/nm0000129/">
+    <name>Tom Cruise</name>
+    <dob>1962-7-3</dob>
+  </actor>
+  <actor id="/name/nm0000124/">
+    <name>Jennifer Connelly</name>
+    <dob>1970-12-12</dob>
+  </actor>
+  <actor id="/name/nm0000174/">
+    <name>Val Kilmer</name>
+    <dob>1959-12-31</dob>
+  </actor>
+  <actor id="/name/nm0000438/">
+    <name>Ed Harris</name>
+    <dob>1950-11-28</dob>
+  </actor>
+  <movie id="/title/tt6264654/">
+    <year/>
+    <title>Free Guy</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
+    <director-ref id="/name/nm0506613/"/>
+    <actor-ref id="/name/nm0169806/"/>
+    <actor-ref id="/name/nm0005351/"/>
+    <actor-ref id="/name/nm3069650/"/>
+    <actor-ref id="/name/nm6564737/"/>
+  </movie>
+  <director id="/name/nm0506613/">
+    <name>Shawn Levy</name>
+    <dob>1968-7-23</dob>
+  </director>
+  <actor id="/name/nm0169806/">
+    <name>Taika Waititi</name>
+    <dob>1975-8-16</dob>
+  </actor>
+  <actor id="/name/nm0005351/">
+    <name>Ryan Reynolds</name>
+    <dob>1976-10-23</dob>
+  </actor>
+  <actor id="/name/nm3069650/">
+    <name>Jodie Comer</name>
+    <dob>1993-3-11</dob>
+  </actor>
+  <actor id="/name/nm6564737/">
+    <name>Joe Keery</name>
+    <dob>1992-4-24</dob>
+  </actor>
+  <movie id="/title/tt6723592/">
+    <year>2020</year>
+    <title>Tenet</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Sci-Fi</genre>
+    </genres>
+    <director-ref id="/name/nm0634240/"/>
+    <actor-ref id="/name/nm0913475/"/>
+    <actor-ref id="/name/nm1500155/"/>
+    <actor-ref id="/name/nm4456120/"/>
+    <actor-ref id="/name/nm1798449/"/>
+  </movie>
+  <director id="/name/nm0634240/">
+    <name>Christopher Nolan</name>
+    <dob>1970-7-30</dob>
+  </director>
+  <actor id="/name/nm0913475/">
+    <name>John David Washington</name>
+    <dob>1984-7-28</dob>
+  </actor>
+  <actor id="/name/nm1500155/">
+    <name>Robert Pattinson</name>
+    <dob>1986-5-13</dob>
+  </actor>
+  <actor id="/name/nm1798449/">
+    <name>Juhan Ulfsak</name>
+    <dob>1973-4-18</dob>
+  </actor>
+  <movie id="/title/tt1086064/">
+    <year>2020</year>
+    <title>Bill &amp; Ted Face the Music</title>
+    <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Music</genre>
+    </genres>
+    <director-ref id="/name/nm0661751/"/>
+    <actor-ref id="/name/nm0000206/"/>
+    <actor-ref id="/name/nm0935664/"/>
+    <actor-ref id="/name/nm1102891/"/>
+    <actor-ref id="/name/nm3034977/"/>
+  </movie>
+  <director id="/name/nm0661751/">
+    <name>Dean Parisot</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm0000206/">
+    <name>Keanu Reeves</name>
+    <dob>1964-9-2</dob>
+  </actor>
+  <actor id="/name/nm0935664/">
+    <name>Alex Winter</name>
+    <dob>1965-7-17</dob>
+  </actor>
+  <actor id="/name/nm3034977/">
+    <name>Samara Weaving</name>
+    <dob>1992-2-23</dob>
+  </actor>
+  <movie id="/title/tt9340860/">
+    <year>2020</year>
+    <title>Let Him Go</title>
+    <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Thriller</genre>
+    </genres>
+    <director-ref id="/name/nm0080120/"/>
+    <actor-ref id="/name/nm0000178/"/>
+    <actor-ref id="/name/nm0000126/"/>
+    <actor-ref id="/name/nm0544334/"/>
+    <actor-ref id="/name/nm7371202/"/>
+  </movie>
+  <director id="/name/nm0080120/">
+    <name>Thomas Bezucha</name>
+    <dob>1964-3-8</dob>
+  </director>
+  <actor id="/name/nm0000178/">
+    <name>Diane Lane</name>
+    <dob>1965-1-22</dob>
+  </actor>
+  <actor id="/name/nm0000126/">
+    <name>Kevin Costner</name>
+    <dob>1955-1-18</dob>
+  </actor>
+  <actor id="/name/nm0544334/">
+    <name>Lesley Manville</name>
+    <dob>1956-3-12</dob>
+  </actor>
+  <actor id="/name/nm7371202/">
+    <name>Kayli Carter</name>
+    <dob/>
+  </actor>
+  <movie id="/title/tt10059518/">
+    <year>2020</year>
+    <title>Unhinged</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Thriller</genre>
+    </genres>
+    <director-ref id="/name/nm0097517/"/>
+    <actor-ref id="/name/nm0000128/"/>
+    <actor-ref id="/name/nm3308569/"/>
+    <actor-ref id="/name/nm5145655/"/>
+    <actor-ref id="/name/nm0801051/"/>
+  </movie>
+  <director id="/name/nm0097517/">
+    <name>Derrick Borte</name>
+    <dob>1967-12-7</dob>
+  </director>
+  <actor id="/name/nm0000128/">
+    <name>Russell Crowe</name>
+    <dob>1964-4-7</dob>
+  </actor>
+  <actor id="/name/nm3308569/">
+    <name>Caren Pistorius</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm5145655/">
+    <name>Gabriel Bateman</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm0801051/">
+    <name>Jimmi Simpson</name>
+    <dob>1975-11-21</dob>
+  </actor>
+  <movie id="/title/tt6856242/">
+    <year>2021</year>
+    <title>The King's Man</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
+    <director-ref id="/name/nm0891216/"/>
+    <actor-ref id="/name/nm2605345/"/>
+    <actor-ref id="/name/nm0117709/"/>
+    <actor-ref id="/name/nm1093951/"/>
+    <actor-ref id="/name/nm0001804/"/>
+  </movie>
+  <director id="/name/nm0891216/">
+    <name>Matthew Vaughn</name>
+    <dob>1971-3-7</dob>
+  </director>
+  <actor id="/name/nm2605345/">
+    <name>Gemma Arterton</name>
+    <dob>1986-2-2</dob>
+  </actor>
+  <actor id="/name/nm0117709/">
+    <name>Daniel Brühl</name>
+    <dob>1978-6-16</dob>
+  </actor>
+  <actor id="/name/nm1093951/">
+    <name>Aaron Taylor-Johnson</name>
+    <dob>1990-6-13</dob>
+  </actor>
+  <actor id="/name/nm0001804/">
+    <name>Stanley Tucci</name>
+    <dob>1960-11-11</dob>
+  </actor>
+  <movie id="/title/tt7979580/">
+    <year>IV</year>
+    <title>Connected</title>
+    <genres>
+      <genre>Animation</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
+    <director-ref id="/name/nm5106831/"/>
+    <actor-ref id="/name/nm6676487/"/>
+    <actor-ref id="/name/nm3434305/"/>
+    <actor-ref id="/name/nm1144419/"/>
+    <actor-ref id="/name/nm0748973/"/>
+    <actor-ref id="/name/nm5106831/"/>
+  </movie>
+  <director id="/name/nm5106831/">
+    <name>Michael Rianda</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm6676487/">
+    <name>Jeff Rowe</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm3434305/">
+    <name>Abbi Jacobson</name>
+    <dob>1984-2-1</dob>
+  </actor>
+  <actor id="/name/nm1144419/">
+    <name>Danny McBride</name>
+    <dob>1976-12-29</dob>
+  </actor>
+  <actor id="/name/nm0748973/">
+    <name>Maya Rudolph</name>
+    <dob>1972-7-27</dob>
+  </actor>
+  <actor id="/name/nm5106831/">
+    <name>Michael Rianda</name>
+    <dob/>
+  </actor>
+  <movie id="/title/tt1070874/">
+    <year>2020</year>
+    <title>The Trial of the Chicago 7</title>
+    <genres>
+      <genre>Drama</genre>
+      <genre>History</genre>
+      <genre>Thriller</genre>
+    </genres>
+    <director-ref id="/name/nm0815070/"/>
+    <actor-ref id="/name/nm1519666/"/>
+    <actor-ref id="/name/nm5189784/"/>
+    <actor-ref id="/name/nm0056187/"/>
+    <actor-ref id="/name/nm0834989/"/>
+  </movie>
+  <director id="/name/nm0815070/">
+    <name>Aaron Sorkin</name>
+    <dob>1961-6-9</dob>
+  </director>
+  <actor id="/name/nm1519666/">
+    <name>Eddie Redmayne</name>
+    <dob>1982-1-6</dob>
+  </actor>
+  <actor id="/name/nm5189784/">
+    <name>Alex Sharp</name>
+    <dob>1989-2-2</dob>
+  </actor>
+  <actor id="/name/nm0056187/">
+    <name>Sacha Baron Cohen</name>
+    <dob>1971-10-13</dob>
+  </actor>
+  <actor id="/name/nm0834989/">
+    <name>Jeremy Strong</name>
+    <dob>1978-12-25</dob>
+  </actor>
+  <movie id="/title/tt7657566/">
+    <year/>
+    <title>Death on the Nile</title>
+    <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Mystery</genre>
+    </genres>
+    <director-ref id="/name/nm0000110/"/>
+    <actor-ref id="/name/nm2309517/"/>
+    <actor-ref id="/name/nm2933757/"/>
+    <actor-ref id="/name/nm3310211/"/>
+    <actor-ref id="/name/nm0000110/"/>
+  </movie>
+  <director id="/name/nm0000110/">
+    <name>Kenneth Branagh</name>
+    <dob>1960-12-10</dob>
+  </director>
+  <actor id="/name/nm2309517/">
+    <name>Armie Hammer</name>
+    <dob>1986-8-28</dob>
+  </actor>
+  <actor id="/name/nm3310211/">
+    <name>Rose Leslie</name>
+    <dob>1987-2-9</dob>
+  </actor>
+  <actor id="/name/nm0000110/">
+    <name>Kenneth Branagh</name>
+    <dob>1960-12-10</dob>
+  </actor>
+  <movie id="/title/tt3581652/">
+    <year>2021</year>
+    <title>West Side Story</title>
+    <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Musical</genre>
+    </genres>
+    <director-ref id="/name/nm0000229/"/>
+    <actor-ref id="/name/nm5052065/"/>
+    <actor-ref id="/name/nm10399505/"/>
+    <actor-ref id="/name/nm3663196/"/>
+    <actor-ref id="/name/nm3174725/"/>
+  </movie>
+  <director id="/name/nm0000229/">
+    <name>Steven Spielberg</name>
+    <dob>1946-12-18</dob>
+  </director>
+  <actor id="/name/nm5052065/">
+    <name>Ansel Elgort</name>
+    <dob>1994-3-14</dob>
+  </actor>
+  <actor id="/name/nm10399505/">
+    <name>Rachel Zegler</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm3663196/">
+    <name>Ariana DeBose</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm3174725/">
+    <name>David Alvarez</name>
+    <dob>1994-5-11</dob>
+  </actor>
+  <movie id="/title/tt1160419/">
+    <year>2021</year>
+    <title>Dune</title>
+    <genres>
+      <genre>Adventure</genre>
+      <genre>Drama</genre>
+      <genre>Sci-Fi</genre>
+    </genres>
+    <director-ref id="/name/nm0898288/"/>
+    <actor-ref id="/name/nm0272581/"/>
+    <actor-ref id="/name/nm3154303/"/>
+    <actor-ref id="/name/nm3918035/"/>
+    <actor-ref id="/name/nm0597388/"/>
+  </movie>
+  <director id="/name/nm0898288/">
+    <name>Denis Villeneuve</name>
+    <dob>1967-10-3</dob>
+  </director>
+  <actor id="/name/nm0272581/">
+    <name>Rebecca Ferguson</name>
+    <dob>1983-10-19</dob>
+  </actor>
+  <actor id="/name/nm3154303/">
+    <name>Timothée Chalamet</name>
+    <dob>1995-12-27</dob>
+  </actor>
+  <actor id="/name/nm3918035/">
+    <name>Zendaya</name>
+    <dob>1996-9-1</dob>
+  </actor>
+  <actor id="/name/nm0597388/">
+    <name>Jason Momoa</name>
+    <dob>1979-8-1</dob>
+  </actor>
+  <movie id="/title/tt2850386/">
+    <year>2020</year>
+    <title>The Croods: A New Age</title>
+    <genres>
+      <genre>Animation</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
+    <director-ref id="/name/nm3150455/"/>
+    <actor-ref id="/name/nm1297015/"/>
+    <actor-ref id="/name/nm0000115/"/>
+    <actor-ref id="/name/nm0005351/"/>
+    <actor-ref id="/name/nm0005182/"/>
+  </movie>
+  <director id="/name/nm3150455/">
+    <name>Joel Crawford</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm1297015/">
+    <name>Emma Stone</name>
+    <dob>1988-11-6</dob>
+  </actor>
+  <actor id="/name/nm0000115/">
+    <name>Nicolas Cage</name>
+    <dob>1964-1-7</dob>
+  </actor>
+  <actor id="/name/nm0005182/">
+    <name>Leslie Mann</name>
+    <dob>1972-3-26</dob>
+  </actor>
+  <movie id="/title/tt8509238/">
+    <year>2022</year>
+    <title>Legally Blonde 3</title>
+    <genres>
+      <genre>Comedy</genre>
+    </genres>
+    <director-ref id="/name/nm9589396/"/>
+    <actor-ref id="/name/nm0005513/"/>
+    <actor-ref id="/name/nm0000702/"/>
+    <actor-ref id="/name/nm0177639/"/>
+    <actor-ref id="/name/nm0004814/"/>
+  </movie>
+  <director id="/name/nm9589396/">
+    <name>Jamie Suk</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm0005513/">
+    <name>Alanna Ubach</name>
+    <dob>1975-10-3</dob>
+  </actor>
+  <actor id="/name/nm0000702/">
+    <name>Reese Witherspoon</name>
+    <dob>1976-3-22</dob>
+  </actor>
+  <actor id="/name/nm0177639/">
+    <name>Jennifer Coolidge</name>
+    <dob>1961-8-28</dob>
+  </actor>
+  <actor id="/name/nm0004814/">
+    <name>Jessica Cauffiel</name>
+    <dob>1976-3-30</dob>
+  </actor>
+  <movie id="/title/tt9347730/">
+    <year>2021</year>
+    <title>Candyman</title>
+    <genres>
+      <genre>Horror</genre>
+      <genre>Thriller</genre>
+    </genres>
+    <director-ref id="/name/nm4804442/"/>
+    <actor-ref id="/name/nm5584344/"/>
+    <actor-ref id="/name/nm3500582/"/>
+    <actor-ref id="/name/nm2805533/"/>
+    <actor-ref id="/name/nm0231458/"/>
+  </movie>
+  <director id="/name/nm4804442/">
+    <name>Nia DaCosta</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm5584344/">
+    <name>Yahya Abdul-Mateen II</name>
+    <dob>1986-7-15</dob>
+  </actor>
+  <actor id="/name/nm3500582/">
+    <name>Teyonah Parris</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm2805533/">
+    <name>Nathan Stewart-Jarrett</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm0231458/">
+    <name>Colman Domingo</name>
+    <dob>1969-11-28</dob>
+  </actor>
+  <movie id="/title/tt8847712/">
+    <year>2021</year>
+    <title>The French Dispatch</title>
+    <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+    </genres>
+    <director-ref id="/name/nm0027572/"/>
+    <actor-ref id="/name/nm0842770/"/>
+    <actor-ref id="/name/nm0001378/"/>
+    <actor-ref id="/name/nm3154303/"/>
+    <actor-ref id="/name/nm0005253/"/>
+  </movie>
+  <director id="/name/nm0027572/">
+    <name>Wes Anderson</name>
+    <dob>1969-5-1</dob>
+  </director>
+  <actor id="/name/nm0842770/">
+    <name>Tilda Swinton</name>
+    <dob>1960-11-5</dob>
+  </actor>
+  <actor id="/name/nm0001378/">
+    <name>Anjelica Huston</name>
+    <dob>1951-7-8</dob>
+  </actor>
+  <movie id="/title/tt5867314/">
+    <year>2020</year>
+    <title>The Empty Man</title>
+    <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Horror</genre>
+    </genres>
+    <director-ref id="/name/nm0697936/"/>
+    <actor-ref id="/name/nm0197647/"/>
+    <actor-ref id="/name/nm0740535/"/>
+    <actor-ref id="/name/nm1525807/"/>
+    <actor-ref id="/name/nm6205739/"/>
+  </movie>
+  <director id="/name/nm0697936/">
+    <name>David Prior</name>
+    <dob>1969-1-6</dob>
+  </director>
+  <actor id="/name/nm0197647/">
+    <name>James Badge Dale</name>
+    <dob>1978-5-1</dob>
+  </actor>
+  <actor id="/name/nm0740535/">
+    <name>Stephen Root</name>
+    <dob>1951-11-17</dob>
+  </actor>
+  <actor id="/name/nm1525807/">
+    <name>Joel Courtney</name>
+    <dob>1996-1-31</dob>
+  </actor>
+  <actor id="/name/nm6205739/">
+    <name>Sasha Frolova</name>
+    <dob/>
+  </actor>
+  <movie id="/title/tt3661394/">
+    <year>2020</year>
+    <title>The One and Only Ivan</title>
+    <genres>
+      <genre>Animation</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
+    <director-ref id="/name/nm4824763/"/>
+    <actor-ref id="/name/nm0005377/"/>
+    <actor-ref id="/name/nm0186505/"/>
+    <actor-ref id="/name/nm5623883/"/>
+    <actor-ref id="/name/nm0451193/"/>
+  </movie>
+  <director id="/name/nm4824763/">
+    <name>Thea Sharrock</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm0005377/">
+    <name>Sam Rockwell</name>
+    <dob>1968-11-5</dob>
+  </actor>
+  <actor id="/name/nm0186505/">
+    <name>Bryan Cranston</name>
+    <dob>1956-3-7</dob>
+  </actor>
+  <actor id="/name/nm0451193/">
+    <name>Chaka Khan</name>
+    <dob>1953-3-23</dob>
+  </actor>
+  <movie id="/title/tt3811906/">
+    <year>IV</year>
+    <title>Malignant</title>
+    <genres>
+      <genre>Horror</genre>
+    </genres>
+    <director-ref id="/name/nm1490123/"/>
+    <actor-ref id="/name/nm1834115/"/>
+    <actor-ref id="/name/nm4487976/"/>
+    <actor-ref id="/name/nm2965226/"/>
+    <actor-ref id="/name/nm0925232/"/>
+  </movie>
+  <director id="/name/nm1490123/">
+    <name>James Wan</name>
+    <dob>1977-2-26</dob>
+  </director>
+  <actor id="/name/nm1834115/">
+    <name>Annabelle Wallis</name>
+    <dob>1984-9-5</dob>
+  </actor>
+  <actor id="/name/nm4487976/">
+    <name>Maddie Hasson</name>
+    <dob>1995-1-4</dob>
+  </actor>
+  <actor id="/name/nm2965226/">
+    <name>George Young</name>
+    <dob>1980-2-29</dob>
+  </actor>
+  <actor id="/name/nm0925232/">
+    <name>Michole Briana White</name>
+    <dob>1969-5-29</dob>
+  </actor>
+  <movie id="/title/tt10736580/">
+    <year>2020</year>
+    <title>Spell</title>
+    <genres>
+      <genre>Horror</genre>
+      <genre>Thriller</genre>
+    </genres>
+    <director-ref id="/name/nm0867127/"/>
+    <actor-ref id="/name/nm1165044/"/>
+    <actor-ref id="/name/nm0222643/"/>
+    <actor-ref id="/name/nm1561415/"/>
+    <actor-ref id="/name/nm10172956/"/>
+  </movie>
+  <director id="/name/nm0867127/">
+    <name>Mark Tonderai</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm1165044/">
+    <name>Omari Hardwick</name>
+    <dob>1974-1-9</dob>
+  </actor>
+  <actor id="/name/nm0222643/">
+    <name>Loretta Devine</name>
+    <dob>1949-8-21</dob>
+  </actor>
+  <actor id="/name/nm1561415/">
+    <name>Lorraine Burroughs</name>
+    <dob>1981-0-0</dob>
+  </actor>
+  <actor id="/name/nm10172956/">
+    <name>Hannah Gonera</name>
+    <dob/>
+  </actor>
+  <movie id="/title/tt9658388/">
+    <year/>
+    <title>Praise This</title>
+    <genres>
+      <genre>Musical</genre>
+      <genre>Romance</genre>
+    </genres>
+    <director-ref id="/name/nm1202276/"/>
+  </movie>
+  <director id="/name/nm1202276/">
+    <name>Tina Gordon</name>
+    <dob/>
+  </director>
+  <movie id="/title/tt0805647/">
+    <year>2020</year>
+    <title>The Witches</title>
+    <genres>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+      <genre>Family</genre>
+    </genres>
+    <director-ref id="/name/nm0000709/"/>
+    <actor-ref id="/name/nm0004266/"/>
+    <actor-ref id="/name/nm0818055/"/>
+    <actor-ref id="/name/nm0001804/"/>
+    <actor-ref id="/name/nm0001674/"/>
+  </movie>
+  <director id="/name/nm0000709/">
+    <name>Robert Zemeckis</name>
+    <dob>1951-5-14</dob>
+  </director>
+  <actor id="/name/nm0004266/">
+    <name>Anne Hathaway</name>
+    <dob>1982-11-12</dob>
+  </actor>
+  <actor id="/name/nm0001674/">
+    <name>Chris Rock</name>
+    <dob>1965-2-7</dob>
+  </actor>
+  <movie id="/title/tt8829830/">
+    <year>2021</year>
+    <title>Fatale</title>
+    <genres>
+      <genre>Thriller</genre>
+    </genres>
+    <director-ref id="/name/nm1938064/"/>
+    <actor-ref id="/name/nm0005476/"/>
+    <actor-ref id="/name/nm1591496/"/>
+    <actor-ref id="/name/nm1013003/"/>
+    <actor-ref id="/name/nm0992694/"/>
+  </movie>
+  <director id="/name/nm1938064/">
+    <name>Deon Taylor</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm1591496/">
+    <name>Mike Colter</name>
+    <dob>1976-8-26</dob>
+  </actor>
+  <actor id="/name/nm1013003/">
+    <name>Michael Ealy</name>
+    <dob>1973-8-3</dob>
+  </actor>
+  <actor id="/name/nm0992694/">
+    <name>Danny Pino</name>
+    <dob>1974-4-15</dob>
+  </actor>
+  <movie id="/title/tt10696896/">
+    <year>IV</year>
+    <title>Stillwater</title>
+    <genres>
+      <genre>Drama</genre>
+      <genre>Thriller</genre>
+    </genres>
+    <director-ref id="/name/nm0565336/"/>
+    <actor-ref id="/name/nm0000354/"/>
+    <actor-ref id="/name/nm1113550/"/>
+    <actor-ref id="/name/nm1891185/"/>
+    <actor-ref id="/name/nm0241759/"/>
+  </movie>
+  <director id="/name/nm0565336/">
+    <name>Tom McCarthy</name>
+    <dob>1966-6-7</dob>
+  </director>
+  <actor id="/name/nm0000354/">
+    <name>Matt Damon</name>
+    <dob>1970-10-8</dob>
+  </actor>
+  <actor id="/name/nm1113550/">
+    <name>Abigail Breslin</name>
+    <dob>1996-4-14</dob>
+  </actor>
+  <actor id="/name/nm1891185/">
+    <name>Camille Cottin</name>
+    <dob>1978-12-1</dob>
+  </actor>
+  <actor id="/name/nm0241759/">
+    <name>Deanna Dunagan</name>
+    <dob>1940-5-25</dob>
+  </actor>
+  <movie id="/title/tt2180339/">
+    <year>2021</year>
+    <title>Deep Water</title>
+    <genres>
+      <genre>Thriller</genre>
+    </genres>
+    <director-ref id="/name/nm0001490/"/>
+    <actor-ref id="/name/nm0000255/"/>
+    <actor-ref id="/name/nm1869101/"/>
+    <actor-ref id="/name/nm0004761/"/>
+    <actor-ref id="/name/nm0504832/"/>
+  </movie>
+  <director id="/name/nm0001490/">
+    <name>Adrian Lyne</name>
+    <dob>1941-3-4</dob>
+  </director>
+  <actor id="/name/nm0004761/">
+    <name>Rachel Blanchard</name>
+    <dob>1976-3-19</dob>
+  </actor>
+  <actor id="/name/nm0504832/">
+    <name>Tracy Letts</name>
+    <dob>1965-7-4</dob>
+  </actor>
+  <movie id="/title/tt10065694/">
+    <year>2020</year>
+    <title>Antebellum</title>
+    <genres>
+      <genre>Drama</genre>
+      <genre>Horror</genre>
+      <genre>Mystery</genre>
+    </genres>
+    <director-ref id="/name/nm4680113/"/>
+    <actor-ref id="/name/nm7896794/"/>
+    <actor-ref id="/name/nm1847117/"/>
+    <actor-ref id="/name/nm1441925/"/>
+    <actor-ref id="/name/nm0540441/"/>
+    <actor-ref id="/name/nm1658935/"/>
+  </movie>
+  <director id="/name/nm4680113/">
+    <name>Gerard Bush</name>
+    <dob/>
+  </director>
+  <actor id="/name/nm7896794/">
+    <name>Christopher Renz</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm1847117/">
+    <name>Janelle Monáe</name>
+    <dob>1985-12-1</dob>
+  </actor>
+  <actor id="/name/nm1441925/">
+    <name>Eric Lange</name>
+    <dob>1973-2-19</dob>
+  </actor>
+  <actor id="/name/nm0540441/">
+    <name>Jena Malone</name>
+    <dob>1984-11-21</dob>
+  </actor>
+  <actor id="/name/nm1658935/">
+    <name>Jack Huston</name>
+    <dob>1982-12-7</dob>
+  </actor>
+  <movie id="/title/tt9086228/">
+    <year>2020</year>
+    <title>Gretel &amp; Hansel</title>
+    <genres>
+      <genre>Fantasy</genre>
+      <genre>Horror</genre>
+      <genre>Mystery</genre>
+    </genres>
+    <director-ref id="/name/nm0674020/"/>
+    <actor-ref id="/name/nm6096118/"/>
+    <actor-ref id="/name/nm10356694/"/>
+    <actor-ref id="/name/nm0000481/"/>
+    <actor-ref id="/name/nm2681284/"/>
+  </movie>
+  <director id="/name/nm0674020/">
+    <name>Oz Perkins</name>
+    <dob>1974-2-2</dob>
+  </director>
+  <actor id="/name/nm6096118/">
+    <name>Sophia Lillis</name>
+    <dob>2002-2-13</dob>
+  </actor>
+  <actor id="/name/nm10356694/">
+    <name>Samuel Leakey</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm0000481/">
+    <name>Alice Krige</name>
+    <dob>1954-6-28</dob>
+  </actor>
+  <actor id="/name/nm2681284/">
+    <name>Jessica De Gouw</name>
+    <dob>1988-2-15</dob>
+  </actor>
+  <movie id="/title/tt8847712/">
+    <year>2021</year>
+    <title>The French Dispatch</title>
+    <genres>
+      <genre>Comedy</genre>
+      <genre>Drama</genre>
+      <genre>Romance</genre>
+    </genres>
+    <director-ref id="/name/nm0027572/"/>
+    <actor-ref id="/name/nm0842770/"/>
+    <actor-ref id="/name/nm0001378/"/>
+    <actor-ref id="/name/nm3154303/"/>
+    <actor-ref id="/name/nm0005253/"/>
+  </movie>
+  <movie id="/title/tt3089630/">
+    <year>2020</year>
+    <title>Artemis Fowl</title>
+    <genres>
+      <genre>Adventure</genre>
+      <genre>Family</genre>
+      <genre>Fantasy</genre>
+    </genres>
+    <director-ref id="/name/nm0000110/"/>
+    <actor-ref id="/name/nm9500254/"/>
+    <actor-ref id="/name/nm7107447/"/>
+    <actor-ref id="/name/nm1265802/"/>
+    <actor-ref id="/name/nm8165603/"/>
+  </movie>
+  <actor id="/name/nm9500254/">
+    <name>Ferdia Shaw</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm7107447/">
+    <name>Lara McDonnell</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm1265802/">
+    <name>Josh Gad</name>
+    <dob>1981-2-23</dob>
+  </actor>
+  <actor id="/name/nm8165603/">
+    <name>Tamara Smart</name>
+    <dob/>
+  </actor>
+  <movie id="/title/tt3152592/">
+    <year>2020</year>
+    <title>Scoob!</title>
+    <genres>
+      <genre>Animation</genre>
+      <genre>Adventure</genre>
+      <genre>Comedy</genre>
+    </genres>
+    <director-ref id="/name/nm0148999/"/>
+    <actor-ref id="/name/nm0287182/"/>
+    <actor-ref id="/name/nm0000242/"/>
+    <actor-ref id="/name/nm0005042/"/>
+    <actor-ref id="/name/nm1752221/"/>
+  </movie>
+  <director id="/name/nm0148999/">
+    <name>Tony Cervone</name>
+    <dob>1966-11-15</dob>
+  </director>
+  <actor id="/name/nm0287182/">
+    <name>Will Forte</name>
+    <dob>1970-6-17</dob>
+  </actor>
+  <actor id="/name/nm0000242/">
+    <name>Mark Wahlberg</name>
+    <dob>1971-6-5</dob>
+  </actor>
+  <actor id="/name/nm0005042/">
+    <name>Jason Isaacs</name>
+    <dob>1963-6-6</dob>
+  </actor>
+  <actor id="/name/nm1752221/">
+    <name>Gina Rodriguez</name>
+    <dob>1984-7-30</dob>
+  </actor>
+  <movie id="/title/tt8404256/">
+    <year>2021</year>
+    <title>Snake Eyes: G.I. Joe Origins</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Sci-Fi</genre>
+    </genres>
+    <director-ref id="/name/nm0777881/"/>
+    <actor-ref id="/name/nm3034977/"/>
+    <actor-ref id="/name/nm6525901/"/>
+    <actor-ref id="/name/nm2216549/"/>
+    <actor-ref id="/name/nm3299397/"/>
+  </movie>
+  <director id="/name/nm0777881/">
+    <name>Robert Schwentke</name>
+    <dob>1968-0-0</dob>
+  </director>
+  <actor id="/name/nm6525901/">
+    <name>Henry Golding</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm2216549/">
+    <name>Úrsula Corberó</name>
+    <dob>1989-8-11</dob>
+  </actor>
+  <actor id="/name/nm3299397/">
+    <name>Iko Uwais</name>
+    <dob>1983-2-12</dob>
+  </actor>
+  <movie id="/title/tt8522006/">
+    <year>2020</year>
+    <title>Happiest Season</title>
+    <genres>
+      <genre>Comedy</genre>
+      <genre>Romance</genre>
+    </genres>
+    <director-ref id="/name/nm0245112/"/>
+    <actor-ref id="/name/nm2391794/"/>
+    <actor-ref id="/name/nm1555340/"/>
+    <actor-ref id="/name/nm4496875/"/>
+    <actor-ref id="/name/nm0829576/"/>
+  </movie>
+  <director id="/name/nm0245112/">
+    <name>Clea DuVall</name>
+    <dob>1977-9-25</dob>
+  </director>
+  <actor id="/name/nm2391794/">
+    <name>Dan Levy</name>
+    <dob>1983-8-9</dob>
+  </actor>
+  <actor id="/name/nm1555340/">
+    <name>Alison Brie</name>
+    <dob>1982-12-29</dob>
+  </actor>
+  <actor id="/name/nm4496875/">
+    <name>Mackenzie Davis</name>
+    <dob>1987-4-1</dob>
+  </actor>
+  <movie id="/title/tt9844522/">
+    <year>2021</year>
+    <title>Escape Room 2</title>
+    <genres>
+      <genre>Action</genre>
+      <genre>Adventure</genre>
+      <genre>Horror</genre>
+    </genres>
+    <director-ref id="/name/nm0733263/"/>
+    <actor-ref id="/name/nm5347988/"/>
+    <actor-ref id="/name/nm2383250/"/>
+    <actor-ref id="/name/nm2265157/"/>
+    <actor-ref id="/name/nm5710414/"/>
+  </movie>
+  <director id="/name/nm0733263/">
+    <name>Adam Robitel</name>
+    <dob>1978-5-26</dob>
+  </director>
+  <actor id="/name/nm5347988/">
+    <name>Taylor Russell</name>
+    <dob>1994-7-18</dob>
+  </actor>
+  <actor id="/name/nm2383250/">
+    <name>Logan Miller</name>
+    <dob>1992-2-18</dob>
+  </actor>
+  <actor id="/name/nm2265157/">
+    <name>Isabelle Fuhrman</name>
+    <dob>1997-2-25</dob>
+  </actor>
+  <actor id="/name/nm5710414/">
+    <name>Thomas Cocquerel</name>
+    <dob/>
+  </actor>
+  <movie id="/title/tt6802400/">
+    <year>2020</year>
+    <title>Coming 2 America</title>
+    <genres>
+      <genre>Comedy</genre>
+    </genres>
+    <director-ref id="/name/nm0108132/"/>
+    <actor-ref id="/name/nm0000552/"/>
+    <actor-ref id="/name/nm0002119/"/>
+    <actor-ref id="/name/nm1854664/"/>
+    <actor-ref id="/name/nm0428656/"/>
+  </movie>
+  <director id="/name/nm0108132/">
+    <name>Craig Brewer</name>
+    <dob>1971-12-6</dob>
+  </director>
+  <actor id="/name/nm0000552/">
+    <name>Eddie Murphy</name>
+    <dob>1961-4-3</dob>
+  </actor>
+  <actor id="/name/nm0002119/">
+    <name>Arsenio Hall</name>
+    <dob>1956-2-12</dob>
+  </actor>
+  <actor id="/name/nm1854664/">
+    <name>Jermaine Fowler</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm0428656/">
+    <name>Leslie Jones</name>
+    <dob>1967-9-7</dob>
+  </actor>
+  <movie id="/title/tt6111574/">
+    <year/>
+    <title>The Woman in the Window</title>
+    <genres>
+      <genre>Crime</genre>
+      <genre>Drama</genre>
+      <genre>Thriller</genre>
+    </genres>
+    <director-ref id="/name/nm0942504/"/>
+    <actor-ref id="/name/nm0010736/"/>
+    <actor-ref id="/name/nm1107001/"/>
+    <actor-ref id="/name/nm9538520/"/>
+    <actor-ref id="/name/nm0751518/"/>
+  </movie>
+  <movie id="/title/tt7939766/">
+    <year>2020</year>
+    <title>I'm Thinking of Ending Things</title>
+    <genres>
+      <genre>Drama</genre>
+      <genre>Thriller</genre>
+    </genres>
+    <director-ref id="/name/nm0442109/"/>
+    <actor-ref id="/name/nm0687146/"/>
+    <actor-ref id="/name/nm2976580/"/>
+    <actor-ref id="/name/nm0001057/"/>
+    <actor-ref id="/name/nm0000667/"/>
+  </movie>
+  <director id="/name/nm0442109/">
+    <name>Charlie Kaufman</name>
+    <dob>1958-11-19</dob>
+  </director>
+  <actor id="/name/nm0687146/">
+    <name>Jesse Plemons</name>
+    <dob>1988-4-2</dob>
+  </actor>
+  <actor id="/name/nm2976580/">
+    <name>Jessie Buckley</name>
+    <dob>1989-12-28</dob>
+  </actor>
+  <actor id="/name/nm0000667/">
+    <name>David Thewlis</name>
+    <dob>1963-3-20</dob>
+  </actor>
+  <movie id="/title/tt10618286/">
+    <year>2020</year>
+    <title>Mank</title>
+    <genres>
+      <genre>Biography</genre>
+      <genre>Drama</genre>
+    </genres>
+    <director-ref id="/name/nm0000399/"/>
+    <actor-ref id="/name/nm2934314/"/>
+    <actor-ref id="/name/nm3095562/"/>
+    <actor-ref id="/name/nm0000198/"/>
+    <actor-ref id="/name/nm1086543/"/>
+  </movie>
+  <director id="/name/nm0000399/">
+    <name>David Fincher</name>
+    <dob>1962-8-28</dob>
+  </director>
+  <actor id="/name/nm2934314/">
+    <name>Lily Collins</name>
+    <dob>1989-3-18</dob>
+  </actor>
+  <actor id="/name/nm3095562/">
+    <name>Tuppence Middleton</name>
+    <dob>1987-2-21</dob>
+  </actor>
+  <actor id="/name/nm0000198/">
+    <name>Gary Oldman</name>
+    <dob>1958-3-21</dob>
+  </actor>
+  <actor id="/name/nm1086543/">
+    <name>Amanda Seyfried</name>
+    <dob>1985-12-3</dob>
+  </actor>
+  <movie id="/title/tt5259822/">
+    <year>I</year>
+    <title>Tesla</title>
+    <genres>
+      <genre>Biography</genre>
+      <genre>Drama</genre>
+    </genres>
+    <director-ref id="/name/nm0021899/"/>
+    <actor-ref id="/name/nm0000160/"/>
+    <actor-ref id="/name/nm2016723/"/>
+    <actor-ref id="/name/nm8141508/"/>
+    <actor-ref id="/name/nm0357979/"/>
+  </movie>
+  <director id="/name/nm0021899/">
+    <name>Michael Almereyda</name>
+    <dob>1959-4-7</dob>
+  </director>
+  <actor id="/name/nm0000160/">
+    <name>Ethan Hawke</name>
+    <dob>1970-11-6</dob>
+  </actor>
+  <actor id="/name/nm2016723/">
+    <name>Eve Hewson</name>
+    <dob>1991-7-7</dob>
+  </actor>
+  <actor id="/name/nm8141508/">
+    <name>Eli A. Smith</name>
+    <dob/>
+  </actor>
+  <actor id="/name/nm0357979/">
+    <name>Josh Hamilton</name>
+    <dob>1969-6-9</dob>
+  </actor>
+  <movie id="/title/tt7435316/">
+    <year>2020</year>
+    <title>The Glorias</title>
+    <genres>
+      <genre>Biography</genre>
+      <genre>Drama</genre>
+      <genre>History</genre>
+    </genres>
+    <director-ref id="/name/nm0853380/"/>
+    <actor-ref id="/name/nm0000194/"/>
+    <actor-ref id="/name/nm2539953/"/>
+    <actor-ref id="/name/nm1847117/"/>
+    <actor-ref id="/name/nm8740834/"/>
+  </movie>
+  <director id="/name/nm0853380/">
+    <name>Julie Taymor</name>
+    <dob>1952-12-15</dob>
+  </director>
+  <actor id="/name/nm0000194/">
+    <name>Julianne Moore</name>
+    <dob>1960-12-3</dob>
+  </actor>
+  <actor id="/name/nm2539953/">
+    <name>Alicia Vikander</name>
+    <dob>1988-10-3</dob>
+  </actor>
+  <actor id="/name/nm8740834/">
+    <name>Ryan Kiera Armstrong</name>
+    <dob>2010-3-10</dob>
+  </actor>
+</imdb>
