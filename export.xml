@@ -1,4 +1,23 @@
 <?xml version="1.0" ?>
+<?xml-stylesheet href="movies.xsl" type="text/xsl" ?>
+<!DOCTYPE imdb [
+        <!ELEMENT imdb (movie)*>
+        <!ELEMENT movie (year|title|genres|director|actor)*>
+        <!ATTLIST movie
+                id CDATA #REQUIRED>
+        <!ELEMENT year (#PCDATA)>
+        <!ELEMENT title (#PCDATA)>
+        <!ELEMENT genres (genre)*>
+        <!ELEMENT genre (#PCDATA)>
+        <!ELEMENT director (name|dob)*>
+        <!ATTLIST director
+                id CDATA #REQUIRED>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT dob (#PCDATA)>
+        <!ELEMENT actor (name|dob)*>
+        <!ATTLIST actor
+                id CDATA #REQUIRED>
+        ]>
 <imdb>
   <movie id="/title/tt8503618/">
     <year>2020</year>
